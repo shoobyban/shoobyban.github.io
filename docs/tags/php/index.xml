@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Wizguild</title>
+    <link>https://wizguild.com/tags/php/</link>
+    <description>Recent content in php on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Oct 2012 13:59:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TextWrangler PHPTidy filter</title>
+      <link>https://wizguild.com/textwrangler_phptidy_filter/</link>
+      <pubDate>Mon, 22 Oct 2012 13:59:06 +0000</pubDate>
+      
+      <guid>https://wizguild.com/textwrangler_phptidy_filter/</guid>
+      <description>I love TextWrangler. Performance of TextWrangler is just incredible compared to the alternatives. Just try to open a few hundred megabytes long XML and do a search and replace. Others will give you the spinning beach-ball for minutes. Its only real weakness is long lines. I miss few key features, though. I&amp;#8217;m not a big fan of BBedit, those extra features are not for me, I actually found them very distracting.</description>
+    </item>
+    
+  </channel>
+</rss>

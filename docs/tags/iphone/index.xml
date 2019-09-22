@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iphone on Wizguild</title>
+    <link>https://wizguild.com/tags/iphone/</link>
+    <description>Recent content in iphone on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2013 11:21:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toddlers’ Blocks for iPad and iPhone</title>
+      <link>https://wizguild.com/toddlers-blocks-for-ipad-and-iphone/</link>
+      <pubDate>Wed, 23 Jan 2013 11:21:16 +0000</pubDate>
+      
+      <guid>https://wizguild.com/toddlers-blocks-for-ipad-and-iphone/</guid>
+      <description>Finally I&amp;#8217;ve released my block-building game for the kids! They&amp;#8217;ve been testing it on the iPad for ages, asking for more faces, telling me that they like this, don&amp;#8217;t like that etc.
+Of course for App Store screen-shots I had to modify the UI, for loading and saving block layouts, it&amp;#8217;s hard to create the same screen-shots for all the resolutions&amp;#8230; and left a broken callback in the code even after testing, so 1.</description>
+    </item>
+    
+    <item>
+      <title>iRecipeBook for iPad</title>
+      <link>https://wizguild.com/irecipebook-for-ipad/</link>
+      <pubDate>Fri, 21 Dec 2012 11:13:26 +0000</pubDate>
+      
+      <guid>https://wizguild.com/irecipebook-for-ipad/</guid>
+      <description>We have a new release! The iPad compatible iRecipeBook was a request, actually we had a bad review, stating that the – iPhone only – iRecipeBook looks wrong on the iPad&amp;#8230; The reviewer stated that five stars will be the award of an iPad compatible release. I&amp;#8217;m waiting!
+Meanwhile I&amp;#8217;m already working on localisations, social networking update (Facebook share, Twitter, Pinterest maybe&amp;#8230;) and sharing recipes via email and from within the App.</description>
+    </item>
+    
+    <item>
+      <title>New iRecipeBook release and more</title>
+      <link>https://wizguild.com/new-irecipebook-release-and-more/</link>
+      <pubDate>Wed, 12 Dec 2012 11:39:14 +0000</pubDate>
+      
+      <guid>https://wizguild.com/new-irecipebook-release-and-more/</guid>
+      <description>iRecipeBook released in App Store just few weeks ago but we already have news about further developments. The new release will support iPad, will have iOS usability and design improvements.
+We plan to release it just before Christmas!</description>
+    </item>
+    
+    <item>
+      <title>Updated iRecipeBook finally</title>
+      <link>https://wizguild.com/updated-irecipebook-finally/</link>
+      <pubDate>Wed, 11 Jan 2012 21:22:12 +0000</pubDate>
+      
+      <guid>https://wizguild.com/updated-irecipebook-finally/</guid>
+      <description>It took terribly long to fix the built-in web server. Thank you for your support by using the App and sorry for annoyances. The focus is on social networking features now.
+As the database is bigger and bigger, especially after uploading images for every recipe I&amp;#8217;ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can&amp;#8217;t sacrifice launch performance.</description>
+    </item>
+    
+  </channel>
+</rss>

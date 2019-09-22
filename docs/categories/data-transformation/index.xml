@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Transformation on Wizguild</title>
+    <link>https://wizguild.com/categories/data-transformation/</link>
+    <description>Recent content in Data Transformation on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2018 23:25:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/categories/data-transformation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple session store in Go</title>
+      <link>https://wizguild.com/simple-session-store-go/</link>
+      <pubDate>Fri, 26 Jan 2018 23:25:15 +0000</pubDate>
+      
+      <guid>https://wizguild.com/simple-session-store-go/</guid>
+      <description>I needed to store values in a key-value store that would persist after restarting the program. I&amp;#8217;m not good at finding things on the internet until I know what exactly to search for.
+So instead, I have written a simple package for storing my data session-like way.
+https://github.com/shoobyban/simplesession is the result.
+// Simple counter program using session storage package main import ( &#34;github.com/shoobyban/simplesession&#34; &#34;fmt&#34; ) func main () { sess, err := simplesession.</description>
+    </item>
+    
+    <item>
+      <title>Golang experiments, Data Transformation</title>
+      <link>https://wizguild.com/golang-experiments/</link>
+      <pubDate>Tue, 23 Jan 2018 16:56:08 +0000</pubDate>
+      
+      <guid>https://wizguild.com/golang-experiments/</guid>
+      <description>Wow, two years without (published) post!
+I&amp;#8217;ve started to experiment with Go in the meantime. I have to admit I&amp;#8217;m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it&amp;#8217;s something.
+As my normal day job involves some backend here and there and we are doing some serious ETL magic, I had to look around for a transformation language.</description>
+    </item>
+    
+  </channel>
+</rss>

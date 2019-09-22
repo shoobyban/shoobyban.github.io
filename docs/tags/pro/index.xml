@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pro on Wizguild</title>
+    <link>https://wizguild.com/tags/pro/</link>
+    <description>Recent content in pro on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Dec 2012 11:13:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/pro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iRecipeBook for iPad</title>
+      <link>https://wizguild.com/irecipebook-for-ipad/</link>
+      <pubDate>Fri, 21 Dec 2012 11:13:26 +0000</pubDate>
+      
+      <guid>https://wizguild.com/irecipebook-for-ipad/</guid>
+      <description>We have a new release! The iPad compatible iRecipeBook was a request, actually we had a bad review, stating that the – iPhone only – iRecipeBook looks wrong on the iPad&amp;#8230; The reviewer stated that five stars will be the award of an iPad compatible release. I&amp;#8217;m waiting!
+Meanwhile I&amp;#8217;m already working on localisations, social networking update (Facebook share, Twitter, Pinterest maybe&amp;#8230;) and sharing recipes via email and from within the App.</description>
+    </item>
+    
+  </channel>
+</rss>
