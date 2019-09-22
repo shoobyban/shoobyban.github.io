@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Wizguild</title>
+    <title>golang on Wizguild</title>
     <link>https://wizguild.com/tags/golang/</link>
-    <description>Recent content in Golang on Wizguild</description>
+    <description>Recent content in golang on Wizguild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Jan 2019 07:53:33 +0000</lastBuildDate>
