@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Wizguild</title>
+    <link>https://wizguild.com/tags/development/</link>
+    <description>Recent content in Development on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Dec 2012 11:13:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iRecipeBook for iPad</title>
+      <link>https://wizguild.com/irecipebook-for-ipad/</link>
+      <pubDate>Fri, 21 Dec 2012 11:13:26 +0000</pubDate>
+      
+      <guid>https://wizguild.com/irecipebook-for-ipad/</guid>
+      <description>We have a new release! The iPad compatible iRecipeBook was a request, actually we had a bad review, stating that the – iPhone only – iRecipeBook looks wrong on the iPad&amp;#8230; The reviewer stated that five stars will be the award of an iPad compatible release. I&amp;#8217;m waiting!
+Meanwhile I&amp;#8217;m already working on localisations, social networking update (Facebook share, Twitter, Pinterest maybe&amp;#8230;) and sharing recipes via email and from within the App.</description>
+    </item>
+    
+    <item>
+      <title>New iRecipeBook release and more</title>
+      <link>https://wizguild.com/new-irecipebook-release-and-more/</link>
+      <pubDate>Wed, 12 Dec 2012 11:39:14 +0000</pubDate>
+      
+      <guid>https://wizguild.com/new-irecipebook-release-and-more/</guid>
+      <description>iRecipeBook released in App Store just few weeks ago but we already have news about further developments. The new release will support iPad, will have iOS usability and design improvements.
+We plan to release it just before Christmas!</description>
+    </item>
+    
+    <item>
+      <title>Creating Magento admin grid without database tables</title>
+      <link>https://wizguild.com/creating-magento-admin-grid-without-database-tables/</link>
+      <pubDate>Thu, 15 Nov 2012 13:10:01 +0000</pubDate>
+      
+      <guid>https://wizguild.com/creating-magento-admin-grid-without-database-tables/</guid>
+      <description>It&amp;#8217;s not common that you have to display something that&amp;#8217;s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
+Feel free to download the code itself: Wizguild_VirtualGrid.zip
+ Virtual grid package structure  In the Grid.php I create a Varien_Data_Collection object: protected function _prepareCollection() { $collection = new Varien_Data_Collection(); foreach (array(&#39;alpha&#39;,&#39;beta&#39;,&#39;charlie&#39;) as $item) { $data = new Varien_Object(); $data-&amp;gt;setName($item); $collection-&amp;gt;addItem($data); } $this-&amp;gt;setCollection($collection); } &amp;#8230;then just use it in the _prepareColumns():</description>
+    </item>
+    
+    <item>
+      <title>TextWrangler PHPTidy filter</title>
+      <link>https://wizguild.com/textwrangler_phptidy_filter/</link>
+      <pubDate>Mon, 22 Oct 2012 13:59:06 +0000</pubDate>
+      
+      <guid>https://wizguild.com/textwrangler_phptidy_filter/</guid>
+      <description>I love TextWrangler. Performance of TextWrangler is just incredible compared to the alternatives. Just try to open a few hundred megabytes long XML and do a search and replace. Others will give you the spinning beach-ball for minutes. Its only real weakness is long lines. I miss few key features, though. I&amp;#8217;m not a big fan of BBedit, those extra features are not for me, I actually found them very distracting.</description>
+    </item>
+    
+    <item>
+      <title>Updated iRecipeBook finally</title>
+      <link>https://wizguild.com/updated-irecipebook-finally/</link>
+      <pubDate>Wed, 11 Jan 2012 21:22:12 +0000</pubDate>
+      
+      <guid>https://wizguild.com/updated-irecipebook-finally/</guid>
+      <description>It took terribly long to fix the built-in web server. Thank you for your support by using the App and sorry for annoyances. The focus is on social networking features now.
+As the database is bigger and bigger, especially after uploading images for every recipe I&amp;#8217;ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can&amp;#8217;t sacrifice launch performance.</description>
+    </item>
+    
+  </channel>
+</rss>

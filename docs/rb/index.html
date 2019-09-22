@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#000000">
+
+    <title>RecipeBook</title> 
+
+    <link rel="manifest" href="manifest.js">
+
+    <link rel="import" href="lib/tabbar.html" >
+    <link rel="import" href="lib/view-controller.html">
+    <link rel="import" href="lib/item.html">
+    <link rel="stylesheet" href="index.css" />
+</head> 
+<body> 
+    <body>
+        <scell-view id="container">
+            ${markup}
+        </scell-view>
+        
+        <scell-tab-bar>
+            <scell-tab name="recipes" title="Recipes"></scell-tab>
+        </scell-tab-bar>
+        <scell-zone-navigator container-selector="#container"></scell-zone-navigator> 
+    </body>
+
+    <link rel="import" href="lib/navigation-bar.html" async>
+    <link rel="import" href="lib/zone-navigator.html" async>
+    <link rel="import" href="lib/recipe.html" async>
+
+    <script src="js/webcomponents-loader.js" async></script>
+    <script src="js/push-navigator.js" async></script>
+    <script src="js/routing.js" async></script>
+    <script src="js/items-controllers.js" async></script>
+    <script src="js/item-controller.js" async></script>
+    <script src="js/main.js" async></script>
+</html>

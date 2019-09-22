@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Wizguild</title>
+    <link>https://wizguild.com/tags/golang/</link>
+    <description>Recent content in Golang on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jan 2019 07:53:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Static Site</title>
+      <link>https://wizguild.com/hugo-static-site/</link>
+      <pubDate>Thu, 24 Jan 2019 07:53:33 +0000</pubDate>
+      
+      <guid>https://wizguild.com/hugo-static-site/</guid>
+      <description>I had WordPress for a myriad of years – it feels like. As my daily work involves moving clients away to other, less feature rich but more integrated solutions it became more and more pressing to check options for myself.
+Hugo is written in Go, a language that I chose to implement several big projects. Accidentally, Hugo became an inspiration and source for documentation when I started to look for good articles about Go&amp;rsquo;s templating language that we use extensively.</description>
+    </item>
+    
+    <item>
+      <title>New tool: gwget, wget based on file list, downloading only missing files</title>
+      <link>https://wizguild.com/new-tool-gwget-wget-based-file-list-downloading-missing-files/</link>
+      <pubDate>Mon, 16 Apr 2018 16:35:36 +0000</pubDate>
+      
+      <guid>https://wizguild.com/new-tool-gwget-wget-based-file-list-downloading-missing-files/</guid>
+      <description>I had to pull only missing images from media folder of live to a staging server. Best way to do it was to &amp;#8230; create a tool that does exactly what I had to do.
+http://github.com/shoobyban/gwget is the result. Enjoy.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Go 1.10 party waitlist</title>
+      <link>https://wizguild.com/go-1-10-party-waitlist/</link>
+      <pubDate>Fri, 09 Feb 2018 07:27:08 +0000</pubDate>
+      
+      <guid>https://wizguild.com/go-1-10-party-waitlist/</guid>
+      <description>Go 1.10 is not full of new features. But one feature makes me really happy, GOPATH being optional. I will be able to work in my projects folder (my hope, anyway).
+I&amp;rsquo;m a member of the Go London User Group, although I have never managed to either turn up or get in yet. I wander if Gophers are as nice people as my e-commerce peeps.
+Oh by the way, I love math.</description>
+    </item>
+    
+    <item>
+      <title>Simple session store in Go</title>
+      <link>https://wizguild.com/simple-session-store-go/</link>
+      <pubDate>Fri, 26 Jan 2018 23:25:15 +0000</pubDate>
+      
+      <guid>https://wizguild.com/simple-session-store-go/</guid>
+      <description>I needed to store values in a key-value store that would persist after restarting the program. I&amp;#8217;m not good at finding things on the internet until I know what exactly to search for.
+So instead, I have written a simple package for storing my data session-like way.
+https://github.com/shoobyban/simplesession is the result.
+// Simple counter program using session storage package main import ( &#34;github.com/shoobyban/simplesession&#34; &#34;fmt&#34; ) func main () { sess, err := simplesession.</description>
+    </item>
+    
+    <item>
+      <title>Golang experiments, Data Transformation</title>
+      <link>https://wizguild.com/golang-experiments/</link>
+      <pubDate>Tue, 23 Jan 2018 16:56:08 +0000</pubDate>
+      
+      <guid>https://wizguild.com/golang-experiments/</guid>
+      <description>Wow, two years without (published) post!
+I&amp;#8217;ve started to experiment with Go in the meantime. I have to admit I&amp;#8217;m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it&amp;#8217;s something.
+As my normal day job involves some backend here and there and we are doing some serious ETL magic, I had to look around for a transformation language.</description>
+    </item>
+    
+  </channel>
+</rss>

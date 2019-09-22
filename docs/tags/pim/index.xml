@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pim on Wizguild</title>
+    <link>https://wizguild.com/tags/pim/</link>
+    <description>Recent content in Pim on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2015 21:45:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/pim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PIM weekend update</title>
+      <link>https://wizguild.com/pim-weekend-update/</link>
+      <pubDate>Sun, 01 Mar 2015 21:45:49 +0000</pubDate>
+      
+      <guid>https://wizguild.com/pim-weekend-update/</guid>
+      <description>Rewriting software is good. Code katas are good. Painful but good. Implementing the PIM on one platform and reimplementing it on a different one is especially painful.
+Implementing API instead of direct database connection feels nice though.
+As well as having an established framework like Symfony2. I had no real problem with the other one but when I will have to support it longer than the support will be available for the framework, sounds like a good idea to just switch – and learn everything again.</description>
+    </item>
+    
+    <item>
+      <title>PIM updates</title>
+      <link>https://wizguild.com/pim-updates/</link>
+      <pubDate>Tue, 24 Feb 2015 21:52:44 +0000</pubDate>
+      
+      <guid>https://wizguild.com/pim-updates/</guid>
+      <description>In the past few weeks I have been working on the PIM (Product Management System) for my Magento instance. With the current setup we can work on the products without having to touch Magento admin.
+Product data is versioned and synchronised both ways on every PIM product list display – this is not optimal but works well, I will probably create a cron job.
+Attributes and attribute sets are also synchronised, CRUD is ready but I don&amp;#8217;t want to show it on the frontend.</description>
+    </item>
+    
+    <item>
+      <title>Simple Product Information Management system for Magento</title>
+      <link>https://wizguild.com/simple-pim-for-magento/</link>
+      <pubDate>Fri, 13 Feb 2015 07:31:56 +0000</pubDate>
+      
+      <guid>https://wizguild.com/simple-pim-for-magento/</guid>
+      <description>Product Information Management systems help you to manage product information centrally. In a sense Magento is a PIM.
+Magento doesn&amp;#8217;t allow you to have versioned product data. In most cases this is not a problem, because you want to sell based on the latest information and you have a reliable content management team. But what if this is not the case, you have computer illiterate shop assistants or old people trying to manage the site?</description>
+    </item>
+    
+  </channel>
+</rss>

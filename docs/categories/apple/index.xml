@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Wizguild</title>
+    <link>https://wizguild.com/categories/apple/</link>
+    <description>Recent content in Apple on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jul 2008 15:54:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can’t wait to publish my iPhone apps</title>
+      <link>https://wizguild.com/cant-wait-to-publish-my-iphone-apps/</link>
+      <pubDate>Tue, 29 Jul 2008 15:54:59 +0000</pubDate>
+      
+      <guid>https://wizguild.com/cant-wait-to-publish-my-iphone-apps/</guid>
+      <description>&amp;nbsp; Five Or More game screenshot
+I&amp;#8217;m still waiting Apple&amp;#8217;s approval of my request to join their developer community. It&amp;#8217;s not straightforward, because I cannot buy anything from Apple Store. I live on the wrong side of the world. I had to fax them papers to prove I will buy the subscription, now they are sitting on this paper and ask me to wait.
+It&amp;#8217;s not so easy to wait, after waiting more than one year to release something it&amp;#8217;s more than annoying.</description>
+    </item>
+    
+    <item>
+      <title>OpenOffice.org 3 beta is fast!</title>
+      <link>https://wizguild.com/openofficeorg-3-beta-is-fast/</link>
+      <pubDate>Thu, 08 May 2008 08:07:10 +0000</pubDate>
+      
+      <guid>https://wizguild.com/openofficeorg-3-beta-is-fast/</guid>
+      <description>I can&amp;#8217;t wait the stable release! After years of watching the splash screen I was delighted to see how fast is the new OOo beta. Service guys has a big XLS price-list of the service parts, this beta software opened this huge file with such an easiness and speed&amp;#8230; I will like the native OOo, I think. NeoOffice is still better if you have to edit something, I had many problems with the fonts and chart sizes, this is normal for a beta software.</description>
+    </item>
+    
+    <item>
+      <title>iPhone SDK</title>
+      <link>https://wizguild.com/iphone-sdk/</link>
+      <pubDate>Sat, 08 Mar 2008 08:52:14 +0000</pubDate>
+      
+      <guid>https://wizguild.com/iphone-sdk/</guid>
+      <description>This morning I have finished porting iLines to official SDK. Works well. I have to admit there are drawbacks (lack of Interface Builder, coming soon) but my code was also buggy (I&amp;#8217;m not surprised :))
+So now I know I&amp;#8217;ll be able to write software and probably I&amp;#8217;ll do it. Before this Apple will have to release firmware 2.0 and this is the hardest thing to wait for something you can use now (theoretically).</description>
+    </item>
+    
+  </channel>
+</rss>

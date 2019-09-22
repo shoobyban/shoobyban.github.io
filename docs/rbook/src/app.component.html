@@ -1,0 +1,93 @@
+<div class="views">
+    <div class="view view-left">
+
+        <div class="navbar">
+            <div class="navbar-inner" data-page="home">
+                <div class="left"> </div>
+                <div class="center sliding">{{name}}</div>
+                <div class="right"> </div>
+            </div>
+            <div class="navbar-inner cached" data-page="detail">
+                <div class="left"><a href="#home" class="back">Back</a></div>
+                <div class="center sliding">Recipe</div>
+            </div>
+        </div>
+
+        <div class="pages navbar-fixed">
+            <div data-page="home" class="page">
+                <form data-search-list=".list-block-search" data-search-in=".item-title,.item-hidden-body" class="searchbar searchbar-init">
+                    <div class="searchbar-input">
+                        <input type="search" placeholder="Search">
+                        <a href="#" class="searchbar-clear"></a>
+                    </div><a href="#" class="searchbar-cancel">Cancel</a>
+                </form>
+                <div class="page-content">
+                    <div class="content-block searchbar-not-found">
+                        <div class="content-block-inner">Nothing found</div>
+                    </div>
+                    <div class="list-block list-block-search searchbar-found">
+                        <ul>
+                            <template ngFor #item [ngForOf]="items">
+                                <li *ngIf="item.entryType!='recipe'" class="list-group-title"><b>{{item.entryValue}}</b></li>
+                                <li *ngIf="item.entryType=='recipe'" (click)="click(item)" class="item-content" >
+                                    <div class="item-inner" >
+                                        <div class="item-title">{{item.entryValue.title}}</div>
+                                        <div class="item-hidden-body" style="display: none">{{item.entryValue.body}}</div>
+                                    </div>
+                                </li>
+                            </template>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <script type="text/ng-template" id="page1">
+                <div class="page-content" id="detailcontent">
+                    <style>
+                        .h {
+                            min-height: 50px;
+                            background: url("data:image/png;base64,#image#") no-repeat;
+                            background-position: 50% 50%;
+                            background-size: 100% auto;
+                            color: white;
+                            font: 36px Arial Rounded MT Bold;
+                            padding: 25px;
+                            text-align: center;
+                            text-shadow: 2px 2px black;
+                            vertical-align: middle;
+                            box-shadow: 5px 5px 5px gray;
+                            border: 1px solid gray;
+                            margin-top: 20px;
+                        }
+
+                        .b {
+                            font: 20px Georgia, Times;
+                            text-align: justify;
+                            white-space: pre-wrap;
+                            margin-top: 10px;
+                        }
+
+                        .hinner {
+                            -webkit-text-stroke-color: black;
+                            -webkit-text-stroke-width: 1px;
+                            display:box;
+                            -webkit-box-orient:horizontal;
+                            -webkit-box-pack:center;
+                            -webkit-box-align:center;
+                            vertical-align:middle;
+                        }
+                    </style>
+                    <a href="#home" class="back">Back</a>
+                    <div class="h">
+                        <div style="">{{selectedItem?selectedItem.entryValue.title:''}}</div>
+                    </div>
+                    <div class="b">
+                        {{selectedItem?selectedItem.entryValue.body:''}}
+                    </div>
+                </div>
+            </script>
+            <div class="page cached" data-page="detail">
+            </div>
+        </div>
+    </div>
+    <div class="view-main" id="mainview"></div>
+</div>

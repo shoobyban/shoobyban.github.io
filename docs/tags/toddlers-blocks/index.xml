@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toddlers Blocks on Wizguild</title>
+    <link>https://wizguild.com/tags/toddlers-blocks/</link>
+    <description>Recent content in Toddlers Blocks on Wizguild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2013 11:21:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://wizguild.com/tags/toddlers-blocks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toddlers’ Blocks for iPad and iPhone</title>
+      <link>https://wizguild.com/toddlers-blocks-for-ipad-and-iphone/</link>
+      <pubDate>Wed, 23 Jan 2013 11:21:16 +0000</pubDate>
+      
+      <guid>https://wizguild.com/toddlers-blocks-for-ipad-and-iphone/</guid>
+      <description>Finally I&amp;#8217;ve released my block-building game for the kids! They&amp;#8217;ve been testing it on the iPad for ages, asking for more faces, telling me that they like this, don&amp;#8217;t like that etc.
+Of course for App Store screen-shots I had to modify the UI, for loading and saving block layouts, it&amp;#8217;s hard to create the same screen-shots for all the resolutions&amp;#8230; and left a broken callback in the code even after testing, so 1.</description>
+    </item>
+    
+  </channel>
+</rss>
