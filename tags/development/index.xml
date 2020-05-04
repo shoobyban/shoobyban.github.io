@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Wizguild</title>
@@ -17,8 +17,8 @@
       <pubDate>Fri, 21 Dec 2012 11:13:26 +0000</pubDate>
       
       <guid>https://wizguild.com/irecipebook-for-ipad/</guid>
-      <description>We have a new release! The iPad compatible iRecipeBook was a request, actually we had a bad review, stating that the – iPhone only – iRecipeBook looks wrong on the iPad&amp;#8230; The reviewer stated that five stars will be the award of an iPad compatible release. I&amp;#8217;m waiting!
-Meanwhile I&amp;#8217;m already working on localisations, social networking update (Facebook share, Twitter, Pinterest maybe&amp;#8230;) and sharing recipes via email and from within the App.</description>
+      <description>We have a new release! The iPad compatible iRecipeBook was a request, actually we had a bad review, stating that the – iPhone only – iRecipeBook looks wrong on the iPad… The reviewer stated that five stars will be the award of an iPad compatible release. I’m waiting!
+Meanwhile I’m already working on localisations, social networking update (Facebook share, Twitter, Pinterest maybe…) and sharing recipes via email and from within the App.</description>
     </item>
     
     <item>
@@ -37,9 +37,8 @@ We plan to release it just before Christmas!</description>
       <pubDate>Thu, 15 Nov 2012 13:10:01 +0000</pubDate>
       
       <guid>https://wizguild.com/creating-magento-admin-grid-without-database-tables/</guid>
-      <description>It&amp;#8217;s not common that you have to display something that&amp;#8217;s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
-Feel free to download the code itself: Wizguild_VirtualGrid.zip
- Virtual grid package structure  In the Grid.php I create a Varien_Data_Collection object: protected function _prepareCollection() { $collection = new Varien_Data_Collection(); foreach (array(&#39;alpha&#39;,&#39;beta&#39;,&#39;charlie&#39;) as $item) { $data = new Varien_Object(); $data-&amp;gt;setName($item); $collection-&amp;gt;addItem($data); } $this-&amp;gt;setCollection($collection); } &amp;#8230;then just use it in the _prepareColumns():</description>
+      <description>It’s not common that you have to display something that’s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
+Feel free to download the code itself: [Wizguild_VirtualGrid.zip][1]</description>
     </item>
     
     <item>
@@ -48,7 +47,10 @@ Feel free to download the code itself: Wizguild_VirtualGrid.zip
       <pubDate>Mon, 22 Oct 2012 13:59:06 +0000</pubDate>
       
       <guid>https://wizguild.com/textwrangler_phptidy_filter/</guid>
-      <description>I love TextWrangler. Performance of TextWrangler is just incredible compared to the alternatives. Just try to open a few hundred megabytes long XML and do a search and replace. Others will give you the spinning beach-ball for minutes. Its only real weakness is long lines. I miss few key features, though. I&amp;#8217;m not a big fan of BBedit, those extra features are not for me, I actually found them very distracting.</description>
+      <description>it works with files (reading from file instead of standard input) there is a non-optional argument “command”, as phptidy has lots of features it does not break lines after semicolons  …so I had to tweak the code a little. I hope you will find it useful.
+Oh, yes, your download link:
+PHPTidy text filter for TextWrangler
+For XMLTidy I use this shell script:</description>
     </item>
     
     <item>
@@ -58,7 +60,7 @@ Feel free to download the code itself: Wizguild_VirtualGrid.zip
       
       <guid>https://wizguild.com/updated-irecipebook-finally/</guid>
       <description>It took terribly long to fix the built-in web server. Thank you for your support by using the App and sorry for annoyances. The focus is on social networking features now.
-As the database is bigger and bigger, especially after uploading images for every recipe I&amp;#8217;ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can&amp;#8217;t sacrifice launch performance.</description>
+As the database is bigger and bigger, especially after uploading images for every recipe I’ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can’t sacrifice launch performance.</description>
     </item>
     
   </channel>

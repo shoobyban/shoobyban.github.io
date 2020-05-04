@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ios on Wizguild</title>
@@ -28,7 +28,7 @@ We plan to release it just before Christmas!</description>
       
       <guid>https://wizguild.com/updated-irecipebook-finally/</guid>
       <description>It took terribly long to fix the built-in web server. Thank you for your support by using the App and sorry for annoyances. The focus is on social networking features now.
-As the database is bigger and bigger, especially after uploading images for every recipe I&amp;#8217;ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can&amp;#8217;t sacrifice launch performance.</description>
+As the database is bigger and bigger, especially after uploading images for every recipe I’ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can’t sacrifice launch performance.</description>
     </item>
     
   </channel>

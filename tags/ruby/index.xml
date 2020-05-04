@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ruby on Wizguild</title>
@@ -18,9 +18,9 @@
       
       <guid>https://wizguild.com/cache-warmup-based-on-sitemap/</guid>
       <description>I work with multiple sites without cache warmup technology. So I created one.
-Don&amp;#8217;t be mislead, it&amp;#8217;s simple.
+Don’t be mislead, it’s simple.
 Basic usage:
-&amp;lt;br /&amp;gt; $ ./warmup.rb www.someurl.tld&amp;lt;br /&amp;gt; 
+&amp;lt;br /&amp;gt; $ ./warmup.rb www.someurl.tld&amp;lt;br /&amp;gt;
 It will
  download http://www.someurl.tld/sitemap.xml parse that sitemap for urls run through that list of urls, downloading every HTML to warmup the cache  For further information and the code check up the Github repository</description>
     </item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>block on Wizguild</title>
@@ -17,9 +17,8 @@
       <pubDate>Thu, 15 Nov 2012 13:10:01 +0000</pubDate>
       
       <guid>https://wizguild.com/creating-magento-admin-grid-without-database-tables/</guid>
-      <description>It&amp;#8217;s not common that you have to display something that&amp;#8217;s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
-Feel free to download the code itself: Wizguild_VirtualGrid.zip
- Virtual grid package structure  In the Grid.php I create a Varien_Data_Collection object: protected function _prepareCollection() { $collection = new Varien_Data_Collection(); foreach (array(&#39;alpha&#39;,&#39;beta&#39;,&#39;charlie&#39;) as $item) { $data = new Varien_Object(); $data-&amp;gt;setName($item); $collection-&amp;gt;addItem($data); } $this-&amp;gt;setCollection($collection); } &amp;#8230;then just use it in the _prepareColumns():</description>
+      <description>It’s not common that you have to display something that’s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
+Feel free to download the code itself: [Wizguild_VirtualGrid.zip][1]</description>
     </item>
     
   </channel>

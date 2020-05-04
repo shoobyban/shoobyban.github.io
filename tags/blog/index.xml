@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Wizguild</title>
@@ -18,7 +18,7 @@
       
       <guid>https://wizguild.com/hugo-static-site/</guid>
       <description>I had WordPress for a myriad of years – it feels like. As my daily work involves moving clients away to other, less feature rich but more integrated solutions it became more and more pressing to check options for myself.
-Hugo is written in Go, a language that I chose to implement several big projects. Accidentally, Hugo became an inspiration and source for documentation when I started to look for good articles about Go&amp;rsquo;s templating language that we use extensively.</description>
+Hugo is written in Go, a language that I chose to implement several big projects. Accidentally, Hugo became an inspiration and source for documentation when I started to look for good articles about Go&#39;s templating language that we use extensively.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Hugo is written in Go, a language that I chose to implement several big projects
       
       <guid>https://wizguild.com/go-1-10-party-waitlist/</guid>
       <description>Go 1.10 is not full of new features. But one feature makes me really happy, GOPATH being optional. I will be able to work in my projects folder (my hope, anyway).
-I&amp;rsquo;m a member of the Go London User Group, although I have never managed to either turn up or get in yet. I wander if Gophers are as nice people as my e-commerce peeps.
+I&#39;m a member of the Go London User Group, although I have never managed to either turn up or get in yet. I wander if Gophers are as nice people as my e-commerce peeps.
 Oh by the way, I love math.</description>
     </item>
     
@@ -39,7 +39,7 @@ Oh by the way, I love math.</description>
       
       <guid>https://wizguild.com/golang-experiments/</guid>
       <description>Wow, two years without (published) post!
-I&amp;#8217;ve started to experiment with Go in the meantime. I have to admit I&amp;#8217;m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it&amp;#8217;s something.
+I’ve started to experiment with Go in the meantime. I have to admit I’m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it’s something.
 As my normal day job involves some backend here and there and we are doing some serious ETL magic, I had to look around for a transformation language.</description>
     </item>
     
@@ -61,7 +61,7 @@ Daniel failed to get good GCSE grades, but we have found a course at East Surrey
       
       <guid>https://wizguild.com/last-year-of-maya-calendar/</guid>
       <description>This post is about last year.
-I have to say it was really colourful. Lets begin with office matters. This was my second year at the company, we had good year so management decided to go to other markets too. This meant new language to support, having fun with French again, c&amp;#8217;est bon. New colleagues, lots of learning. Good and bad decisions, really good and really bad days too.
+I have to say it was really colourful. Lets begin with office matters. This was my second year at the company, we had good year so management decided to go to other markets too. This meant new language to support, having fun with French again, c’est bon. New colleagues, lots of learning. Good and bad decisions, really good and really bad days too.
 At home we have helping hand (au pair) so my loved one Emese has a full time job again.</description>
     </item>
     
@@ -71,8 +71,8 @@ At home we have helping hand (au pair) so my loved one Emese has a full time job
       <pubDate>Wed, 24 Oct 2012 08:29:44 +0000</pubDate>
       
       <guid>https://wizguild.com/magehack-2012-london/</guid>
-      <description>I wanted to write a blogpost about MageHack 2012 London (magehack.com) but somehow failed until now. I&amp;#8217;ll be brief as it was long ago and the memory is fading fast.
-There was a pub warm-up event on the Friday before the event, with beers and schnitzel (a guy grabbed the last one just before me), sausages, mash&amp;#8230; we&amp;#8217;ve discussed our plans, trying to find out who will be possible project owner, who will join, and basically who&amp;#8217;s who.</description>
+      <description>I wanted to write a blogpost about MageHack 2012 London (magehack.com) but somehow failed until now. I’ll be brief as it was long ago and the memory is fading fast.
+There was a pub warm-up event on the Friday before the event, with beers and schnitzel (a guy grabbed the last one just before me), sausages, mash… we’ve discussed our plans, trying to find out who will be possible project owner, who will join, and basically who’s who.</description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@ There was a pub warm-up event on the Friday before the event, with beers and sch
       
       <guid>https://wizguild.com/twenty-eleven/</guid>
       <description>Looking back on the year, as usual. My memory is so bad I have to take notes 🙂
-If last year was positive, it&amp;#8217;s even better, in every aspects.
+If last year was positive, it’s even better, in every aspects.
 I have a nice new job in a small international company as Head of IT / Architect, some kind of a CTO but with lots of fun around the code. We have few Magento systems, building new sites regularly, working with logistics companies and other partners connecting our systems to their, providing them data, sending and updating orders etc.</description>
     </item>
     
@@ -92,7 +92,7 @@ I have a nice new job in a small international company as Head of IT / Architect
       <pubDate>Fri, 31 Dec 2010 20:15:26 +0000</pubDate>
       
       <guid>https://wizguild.com/year2010-year/</guid>
-      <description>My first year in the UK.  I have had great time at the NSI, I have created the new patrolstore.com based on Magento, a small site called apace.org.uk for police chiefs using Zend Frameworks, 3 other sites are under testing, a new mail server and lots of small achievements. I have a new nick: they call me &amp;#8220;the Hungarian wizard&amp;#8221; 🙂  We live here in Redhill, just south of London in a nice little two bedroom rent.</description>
+      <description></description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@ I have a nice new job in a small international company as Head of IT / Architect
       <guid>https://wizguild.com/sum2009/</guid>
       <description>All right, time to post all things about 2009. I cannot wait longer.
 Pros:
- My son, Máté (Matthew) was born in January I have a new app in iTunes App Store: iRecipeBook Acted as &amp;#8220;Most Senior Apple Consultant&amp;#8221; for Hungary I had nice server consolidation projects at Apcom Also I had very nice in-house development projects I had no major health problems  Cons:
+ My son, Máté (Matthew) was born in January I have a new app in iTunes App Store: iRecipeBook Acted as “Most Senior Apple Consultant” for Hungary I had nice server consolidation projects at Apcom Also I had very nice in-house development projects I had no major health problems  Cons:
  Apcom is much smaller now There is a joke about recession: A recession is when your neighbour loses his job.</description>
     </item>
     
@@ -113,7 +113,7 @@ Pros:
       <pubDate>Wed, 23 Dec 2009 17:22:07 +0000</pubDate>
       
       <guid>https://wizguild.com/my-wok-chicken/</guid>
-      <description>1 chicken breast 2 table spoon of olive oil 1 can of mushroom 1-2 carrot 1 table spoon of wok spice (contains salt, sugar, garlic, pepper, soy sauce, ginger, fenugreek, turmeric)&amp;#8230; I know this is cheating 😉 soy sauce 1 table spoon of starch 1 medium sized onion 100g of rice noodle water  Clean and slice the chicken to 2&amp;#215;3 cm slices, fry them in olive oil till they are white.</description>
+      <description>1 chicken breast 2 table spoon of olive oil 1 can of mushroom 1-2 carrot 1 table spoon of wok spice (contains salt, sugar, garlic, pepper, soy sauce, ginger, fenugreek, turmeric)… I know this is cheating 😉 soy sauce 1 table spoon of starch 1 medium sized onion 100g of rice noodle water  Clean and slice the chicken to 2×3 cm slices, fry them in olive oil till they are white.</description>
     </item>
     
     <item>
@@ -133,7 +133,7 @@ Update: My son Matthew turned 9 months few days ago. He is clever and as handsom
       
       <guid>https://wizguild.com/training-on-a-nikon-d40/</guid>
       <description>Tough DSLRs are not for those who cannot make a steady shot with a pocket cam I decided to buy a D40 after recognising that my pictures are full of noise.
-The challenge: to learn to shoot nice photos. I&amp;#8217;ve read tutorials, books about the subject, I know the basics, the theory, but this is different.</description>
+The challenge: to learn to shoot nice photos. I’ve read tutorials, books about the subject, I know the basics, the theory, but this is different.</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ The challenge: to learn to shoot nice photos. I&amp;#8217;ve read tutorials, boo
       
       <guid>https://wizguild.com/year/</guid>
       <description>Some key events in 2008:
- learnt the basics of the French language spent few nice days in Paris again 🙂 fruitful vacation in Döbrönte &amp;#8230; see last entry 😉 I organized the first Apple summer camp and an educational week became Zyxel switch specialist and Apple Certified Technical Coordinator Emese is pregnant with my son 😀  </description>
+ learnt the basics of the French language spent few nice days in Paris again 🙂 fruitful vacation in Döbrönte … see last entry 😉 I organized the first Apple summer camp and an educational week became Zyxel switch specialist and Apple Certified Technical Coordinator Emese is pregnant with my son 😀  </description>
     </item>
     
     <item>
@@ -152,8 +152,8 @@ The challenge: to learn to shoot nice photos. I&amp;#8217;ve read tutorials, boo
       <pubDate>Fri, 19 Sep 2008 07:26:55 +0000</pubDate>
       
       <guid>https://wizguild.com/five-or-more-is-in-app-store/</guid>
-      <description>Hurray, hurray and hurray. My little game is in the App Store! It took long, but it&amp;#8217;s there. You can download it for free of course, search for &amp;#8220;Shooby&amp;#8221;. I hope you will find it as annoying and fun as I do.
-Update: I have been reviewed by &amp;#8220;whoneedsaname&amp;#8221;. It&amp;#8217;s fascinating how the guy writes!</description>
+      <description>Hurray, hurray and hurray. My little game is in the App Store! It took long, but it’s there. You can download it for free of course, search for “Shooby”. I hope you will find it as annoying and fun as I do.
+Update: I have been reviewed by “whoneedsaname”. It’s fascinating how the guy writes!</description>
     </item>
     
     <item>
@@ -171,7 +171,7 @@ Update: I have been reviewed by &amp;#8220;whoneedsaname&amp;#8221;. It&amp;#821
       <pubDate>Sun, 20 Jul 2008 12:00:14 +0000</pubDate>
       
       <guid>https://wizguild.com/periodic-post-0x20/</guid>
-      <description>I&amp;#8217;m older, this is how the Universe works. And I blog this. No comment.</description>
+      <description>I’m older, this is how the Universe works. And I blog this. No comment.</description>
     </item>
     
     <item>
@@ -180,7 +180,7 @@ Update: I have been reviewed by &amp;#8220;whoneedsaname&amp;#8221;. It&amp;#821
       <pubDate>Sun, 28 Oct 2007 18:52:23 +0000</pubDate>
       
       <guid>https://wizguild.com/mac-os-x-leopard-aka-105-first-impressions/</guid>
-      <description>The new cat gives me so much, I can&amp;#8217;t count everything.
+      <description>The new cat gives me so much, I can’t count everything.
 After a clean install I have moved my programs into the Applications folder, then Application Support, Preferences and many things from my old home folder. After this I had a clean leo with my apps working (or not :))
 I had to squash some bugs, too, for example FileMaker works with US locale but nothing else, hot-keys stopped working with international keyboard layouts (for example command-`, move focus to next window) this is really painful.</description>
     </item>
@@ -191,7 +191,7 @@ I had to squash some bugs, too, for example FileMaker works with US locale but n
       <pubDate>Thu, 18 Oct 2007 15:14:30 +0000</pubDate>
       
       <guid>https://wizguild.com/time-to-celebrate/</guid>
-      <description>Finally, the time has come. Steve Jobs announced the iPhone SDK, available from February, 2008! It&amp;#8217;s so good to be Apple fan, again 🙂 Beware of my Apps 😀</description>
+      <description>Finally, the time has come. Steve Jobs announced the iPhone SDK, available from February, 2008! It’s so good to be Apple fan, again 🙂 Beware of my Apps 😀</description>
     </item>
     
     <item>
@@ -200,7 +200,7 @@ I had to squash some bugs, too, for example FileMaker works with US locale but n
       <pubDate>Tue, 16 Oct 2007 19:42:28 +0000</pubDate>
       
       <guid>https://wizguild.com/programming-is-fun/</guid>
-      <description>Hell, yes. I had problem with a regexp today and I wrote a small eval() based code (3 or 4 lines) what I can use as debugger&amp;#8230; in the evening I had this crazy idea&amp;#8230;</description>
+      <description>Hell, yes. I had problem with a regexp today and I wrote a small eval() based code (3 or 4 lines) what I can use as debugger… in the evening I had this crazy idea…</description>
     </item>
     
     <item>
@@ -219,7 +219,7 @@ I had to squash some bugs, too, for example FileMaker works with US locale but n
       <pubDate>Sun, 06 May 2007 05:51:02 +0000</pubDate>
       
       <guid>https://wizguild.com/little-skype-style-hack-for-my-friends/</guid>
-      <description>It&amp;#8217;s not official, barely legal (it&amp;#8217;s from an Adium theme) but looks good. To install: get it here and after uncompressing copy it into /Applications/Skype.app/Contents/Resources/ChatStyles/ (or find the according folder on Linux and Windows). You cannot switch the color scheme and can&amp;#8217;t show avatars, but it&amp;#8217;s cute.</description>
+      <description>It’s not official, barely legal (it’s from an Adium theme) but looks good. To install: get it here and after uncompressing copy it into /Applications/Skype.app/Contents/Resources/ChatStyles/ (or find the according folder on Linux and Windows). You cannot switch the color scheme and can’t show avatars, but it’s cute.</description>
     </item>
     
     <item>
@@ -228,7 +228,7 @@ I had to squash some bugs, too, for example FileMaker works with US locale but n
       <pubDate>Tue, 01 May 2007 12:26:31 +0000</pubDate>
       
       <guid>https://wizguild.com/xkcd-time-factorisation-widget/</guid>
-      <description>I am mad, I know. I&amp;#8217;ve made the XKCD Time Factorisation widget for other XKCD fans from their comic strip.
+      <description>I am mad, I know. I’ve made the XKCD Time Factorisation widget for other XKCD fans from their comic strip.
 I hope you will find it funny. Another useless widget on your Mac OS X Dashboard :).</description>
     </item>
     
@@ -239,7 +239,7 @@ I hope you will find it funny. Another useless widget on your Mac OS X Dashboard
       
       <guid>https://wizguild.com/medical-problems/</guid>
       <description>After 2 months of fighting with my pain and inflammation in my lung with aid of drugs like steroids and antibiotics I had to find that after I stopped to get those pills the pain and the inflammation came back.
-But it&amp;#8217;s better than poisoning myself with steroids and drugs for blood pressure and so&amp;#8230; after one month of taking Medrol I had terrible headache (I mean terrible and way too long&amp;#8230; 3 weeks long without a minute stop) but it was better after I was able to stop taking it.</description>
+But it’s better than poisoning myself with steroids and drugs for blood pressure and so… after one month of taking Medrol I had terrible headache (I mean terrible and way too long… 3 weeks long without a minute stop) but it was better after I was able to stop taking it.</description>
     </item>
     
     <item>
@@ -248,7 +248,7 @@ But it&amp;#8217;s better than poisoning myself with steroids and drugs for bloo
       <pubDate>Mon, 02 Apr 2007 18:56:47 +0000</pubDate>
       
       <guid>https://wizguild.com/back/</guid>
-      <description>It&amp;#8217;s so good to be alive! Thanks!</description>
+      <description>It’s so good to be alive! Thanks!</description>
     </item>
     
     <item>
@@ -257,7 +257,7 @@ But it&amp;#8217;s better than poisoning myself with steroids and drugs for bloo
       <pubDate>Fri, 09 Feb 2007 13:00:54 +0000</pubDate>
       
       <guid>https://wizguild.com/sshfs-on-mac-os-x-macfuse/</guid>
-      <description>Using Google&amp;#8217;s MacFUSE for some weeks, I&amp;#8217;m happy with it. It&amp;#8217;s cool to have sshfs on Mac 🙂</description>
+      <description>Using Google’s MacFUSE for some weeks, I’m happy with it. It’s cool to have sshfs on Mac 🙂</description>
     </item>
     
     <item>
@@ -266,7 +266,7 @@ But it&amp;#8217;s better than poisoning myself with steroids and drugs for bloo
       <pubDate>Tue, 09 Jan 2007 19:48:29 +0000</pubDate>
       
       <guid>https://wizguild.com/announced-iphone/</guid>
-      <description>Today Apple has announced iPhone. I want one. I want to write programs to it. I want to use it, now. I think I&amp;#8217;m not alone.</description>
+      <description>Today Apple has announced iPhone. I want one. I want to write programs to it. I want to use it, now. I think I’m not alone.</description>
     </item>
     
     <item>
@@ -275,7 +275,7 @@ But it&amp;#8217;s better than poisoning myself with steroids and drugs for bloo
       <pubDate>Mon, 04 Dec 2006 13:24:11 +0000</pubDate>
       
       <guid>https://wizguild.com/weekends-fun/</guid>
-      <description>This weekend we had some fun at the lake Omszki. Vakhangya and his son asked me about having a chat, Maji has a new ball so we played football. It was fun, except Vakhangya had some problem with his blood pressure&amp;#8230;
+      <description>This weekend we had some fun at the lake Omszki. Vakhangya and his son asked me about having a chat, Maji has a new ball so we played football. It was fun, except Vakhangya had some problem with his blood pressure…
 I hope they are OK now 🙂</description>
     </item>
     
@@ -285,7 +285,7 @@ I hope they are OK now 🙂</description>
       <pubDate>Mon, 27 Nov 2006 10:24:06 +0000</pubDate>
       
       <guid>https://wizguild.com/choc-o-lait/</guid>
-      <description>This weekend we had nice weather at Heviz. I can&amp;#8217;t remember the last time when we were so happy and relaxed. Heviz is Hungary&amp;#8217;s most famous thermal lake, beautiful (with water lily) and radioactive water. I have no problem with my bones or muscles (the water is good for disabled people) but we had an invitation for 3 days.
+      <description>This weekend we had nice weather at Heviz. I can’t remember the last time when we were so happy and relaxed. Heviz is Hungary’s most famous thermal lake, beautiful (with water lily) and radioactive water. I have no problem with my bones or muscles (the water is good for disabled people) but we had an invitation for 3 days.
 The weather was so warm I walked on the street in t-shirt.</description>
     </item>
     
@@ -295,7 +295,7 @@ The weather was so warm I walked on the street in t-shirt.</description>
       <pubDate>Fri, 17 Nov 2006 09:45:05 +0000</pubDate>
       
       <guid>https://wizguild.com/xsan-broadcasting-training-in-paris/</guid>
-      <description>Finally I&amp;#8217;m here. I&amp;#8217;ve played with Xserves, Xserve RAIDs and fibre channel switches in the last few days, it was fun. French people are nice, the host of the training is a company is Agnosys.fr, a French Apple training company. They have good trainings as I understand their brochures. I&amp;#8217;ve learnt few new French words too and many about Apple video editing and server solutions. I love to be here 🙂</description>
+      <description>Finally I’m here. I’ve played with Xserves, Xserve RAIDs and fibre channel switches in the last few days, it was fun. French people are nice, the host of the training is a company is Agnosys.fr, a French Apple training company. They have good trainings as I understand their brochures. I’ve learnt few new French words too and many about Apple video editing and server solutions. I love to be here 🙂</description>
     </item>
     
     <item>
@@ -304,7 +304,7 @@ The weather was so warm I walked on the street in t-shirt.</description>
       <pubDate>Thu, 03 Aug 2006 08:15:46 +0000</pubDate>
       
       <guid>https://wizguild.com/mac-os-x-cracked-heh-blah-blah/</guid>
-      <description>Of course, with a buggy 3rd party driver. So it&amp;#8217;s not a real sensation, but good for the press (blooood!!! ahhhh!!!) Nonsense. Of course, the guy was smart, he had good stuff and the security hole is absolutely there&amp;#8230;
+      <description>Of course, with a buggy 3rd party driver. So it’s not a real sensation, but good for the press (blooood!!! ahhhh!!!) Nonsense. Of course, the guy was smart, he had good stuff and the security hole is absolutely there…
 Hijacking a macbook in 60 secs with a 3rd party WiFi card</description>
     </item>
     
@@ -323,8 +323,8 @@ Hijacking a macbook in 60 secs with a 3rd party WiFi card</description>
       <pubDate>Sun, 16 Jul 2006 20:37:36 +0000</pubDate>
       
       <guid>https://wizguild.com/from-ukrainia/</guid>
-      <description>Beregszasz (Beregovo), Ukraine, Dormitory of Transcarpatian Hungarian College Named After Ferenc Rakoczi II&amp;#8230; tomorrow we will give speeches on free software for teachers.
-I&amp;#8217;m sitting in front of my machine, after a long trip. We had a meeting in Nyiregyhaza with the others and some pizza then in a 5 cars long convoy we started to annoy the border guards 🙂 It was a dumb situation when the Ukrainian border guard asked us (of course in Ukrainian language) about why we are waiting in a forbidden area.</description>
+      <description>Beregszasz (Beregovo), Ukraine, Dormitory of Transcarpatian Hungarian College Named After Ferenc Rakoczi II… tomorrow we will give speeches on free software for teachers.
+I’m sitting in front of my machine, after a long trip. We had a meeting in Nyiregyhaza with the others and some pizza then in a 5 cars long convoy we started to annoy the border guards 🙂 It was a dumb situation when the Ukrainian border guard asked us (of course in Ukrainian language) about why we are waiting in a forbidden area.</description>
     </item>
     
     <item>
@@ -333,7 +333,7 @@ I&amp;#8217;m sitting in front of my machine, after a long trip. We had a meetin
       <pubDate>Fri, 14 Jul 2006 11:49:52 +0000</pubDate>
       
       <guid>https://wizguild.com/i-hate-to-move/</guid>
-      <description>I mean from one rent into another&amp;#8230; kills me. Aaaahh!!!!</description>
+      <description>I mean from one rent into another… kills me. Aaaahh!!!!</description>
     </item>
     
     <item>
@@ -362,10 +362,10 @@ We will talk about servers, new technologies around Macs, free software projects
       <pubDate>Tue, 20 Jun 2006 13:14:01 +0000</pubDate>
       
       <guid>https://wizguild.com/new-server/</guid>
-      <description>So, after hard times I have another chance to express my ideas and feelings about my environment. I&amp;#8217;ve got new server! Wow, wow!
-I&amp;#8217;m so happy!
+      <description>So, after hard times I have another chance to express my ideas and feelings about my environment. I’ve got new server! Wow, wow!
+I’m so happy!
 Few words about last months:
- I&amp;#8217;m working at A4 Apple Center as Head of development, we are making financial systems for clients with Mac systems. I&amp;#8217;m quite happy with my squash play. I had to make myself move somehow. Unfortunately BMP has moved back to Bicske so I haven&amp;#8217;t got permanent partner.</description>
+ I’m working at A4 Apple Center as Head of development, we are making financial systems for clients with Mac systems. I’m quite happy with my squash play. I had to make myself move somehow. Unfortunately BMP has moved back to Bicske so I haven’t got permanent partner.</description>
     </item>
     
     <item>
@@ -374,7 +374,7 @@ Few words about last months:
       <pubDate>Fri, 17 Mar 2006 13:27:25 +0000</pubDate>
       
       <guid>https://wizguild.com/why-am-i-not-blogging/</guid>
-      <description>Good question&amp;#8230; Maybe I have no spare time&amp;#8230; 🙁</description>
+      <description>Good question… Maybe I have no spare time… 🙁</description>
     </item>
     
     <item>
@@ -383,8 +383,8 @@ Few words about last months:
       <pubDate>Tue, 03 Jan 2006 23:58:07 +0000</pubDate>
       
       <guid>https://wizguild.com/about-2005/</guid>
-      <description>OK, so it&amp;#8217;s time for review last year. I&amp;#8217;m happy it&amp;#8217;s over. I hope I will like 2006 better.
- Projects:  Two major Flash-MySQL-perl based TV show game (currently in use on ATV and Duna TV) Web sites (kepvadasz.hu, A4 Apple Center, &amp;#8230;) Call Center application in Cocoa, Webkit, PHP and MySQL OpenOffice.org 2.0 Hungarian version with Hunspell for Mac OS X, aka FSF.hu build contribution in TV show called Macians (currently I feel shame because I have no time) on Fix.</description>
+      <description>OK, so it’s time for review last year. I’m happy it’s over. I hope I will like 2006 better.
+ Projects:  Two major Flash-MySQL-perl based TV show game (currently in use on ATV and Duna TV) Web sites (kepvadasz.hu, A4 Apple Center, …) Call Center application in Cocoa, Webkit, PHP and MySQL OpenOffice.org 2.0 Hungarian version with Hunspell for Mac OS X, aka FSF.hu build contribution in TV show called Macians (currently I feel shame because I have no time) on Fix.</description>
     </item>
     
     <item>
@@ -393,7 +393,7 @@ Few words about last months:
       <pubDate>Tue, 03 Jan 2006 09:44:55 +0000</pubDate>
       
       <guid>https://wizguild.com/nokia-6111-and-mac-os-x-aka-how-to-sync-problem-v3/</guid>
-      <description>Yesterday I have bought a Nokia 6111. This is a good-looking Series 40 phone (sigh, no more python/c++ hacking, no more iSync)&amp;#8230;
+      <description>Yesterday I have bought a Nokia 6111. This is a good-looking Series 40 phone (sigh, no more python/c++ hacking, no more iSync)…
 While there is a program to sync contacts, etc (works well with 6111) called PhoneDirector from MacMedia, I had to write my own (and free) app to upload the contents of my Address Book to the phone.
 Gnokii is a good choice, if you have just one contact to sync but if you have few hundred you will have to make a script.</description>
     </item>
@@ -404,7 +404,7 @@ Gnokii is a good choice, if you have just one contact to sync but if you have fe
       <pubDate>Tue, 27 Sep 2005 16:55:01 +0000</pubDate>
       
       <guid>https://wizguild.com/neoofficej-for-java-14x/</guid>
-      <description>New, faster, with fewer Java based bugs. Cool! I have to say Patric is working hard and making fantastic things around NeoOffice/J. Thanks, and please keep this process. Feel free to download the performance patch, it applies to 1.1 (downloadable from neooffice.org)&amp;#8230;</description>
+      <description>New, faster, with fewer Java based bugs. Cool! I have to say Patric is working hard and making fantastic things around NeoOffice/J. Thanks, and please keep this process. Feel free to download the performance patch, it applies to 1.1 (downloadable from neooffice.org)…</description>
     </item>
     
     <item>
@@ -413,7 +413,7 @@ Gnokii is a good choice, if you have just one contact to sync but if you have fe
       <pubDate>Sat, 06 Aug 2005 07:35:49 +0000</pubDate>
       
       <guid>https://wizguild.com/mighty-mouse-in-real/</guid>
-      <description>Yesterday I brought home the first Mighty mouse for testing. I have to say I was right. This is an evolutionary mouse, but users will have to learn to use it. Clicking with the right, left or the middle (OK, its better to say 1,2,3 or primary etc.) button is easy if you don&amp;#8217;t think just do it. But when you see what you do (for example I lift my other fingers up) you will try to do it other ways and it does not work like that.</description>
+      <description>Yesterday I brought home the first Mighty mouse for testing. I have to say I was right. This is an evolutionary mouse, but users will have to learn to use it. Clicking with the right, left or the middle (OK, its better to say 1,2,3 or primary etc.) button is easy if you don’t think just do it. But when you see what you do (for example I lift my other fingers up) you will try to do it other ways and it does not work like that.</description>
     </item>
     
     <item>
@@ -422,7 +422,7 @@ Gnokii is a good choice, if you have just one contact to sync but if you have fe
       <pubDate>Tue, 02 Aug 2005 20:05:08 +0000</pubDate>
       
       <guid>https://wizguild.com/new-mouse-from-apple/</guid>
-      <description>I like Mighty Mouse! It seems usable, it&amp;#8217;s cute, Apple knows how to make a real product! It&amp;#8217;s so cute! Oh my! &amp;#8230;. I&amp;#8217;ll have problem with buttons at the right and left side, though. I hate to click accidentally. I hope I will like it when I&amp;#8217;ll got one 🙂</description>
+      <description>I like Mighty Mouse! It seems usable, it’s cute, Apple knows how to make a real product! It’s so cute! Oh my! …. I’ll have problem with buttons at the right and left side, though. I hate to click accidentally. I hope I will like it when I’ll got one 🙂</description>
     </item>
     
     <item>
@@ -431,8 +431,8 @@ Gnokii is a good choice, if you have just one contact to sync but if you have fe
       <pubDate>Sun, 31 Jul 2005 10:22:15 +0000</pubDate>
       
       <guid>https://wizguild.com/still-lots-of-staff-to-close/</guid>
-      <description>Tomorrow I will start another &amp;#8220;big project&amp;#8221; and I still have lots of unfinished stuff here. I will have to make agreements with my previous clients who are complaining for support (unfortunately all of them think it&amp;#8217;s free, gratis, etc&amp;#8230;)
-Normally I help them as I should, but after a number of requests I start to slow down, losing interest. I know it&amp;#8217;s not the best what I can do, but they don&amp;#8217;t want to pay my time and although I really like them (not all of them, but in general) I have to do my other jobs, too.</description>
+      <description>Tomorrow I will start another “big project” and I still have lots of unfinished stuff here. I will have to make agreements with my previous clients who are complaining for support (unfortunately all of them think it’s free, gratis, etc…)
+Normally I help them as I should, but after a number of requests I start to slow down, losing interest. I know it’s not the best what I can do, but they don’t want to pay my time and although I really like them (not all of them, but in general) I have to do my other jobs, too.</description>
     </item>
     
     <item>
@@ -442,8 +442,8 @@ Normally I help them as I should, but after a number of requests I start to slow
       
       <guid>https://wizguild.com/great/</guid>
       <description>We had great time at Mogyoród, exactly two days time. Nice weather, sweeeeeet relaxation, lazing all the day! Wohoooo!
-We have spent two days at the Aquapark and it&amp;#8217;s camping, right before the Formula 1 madness.
-Back to work! Brrrr&amp;#8230;</description>
+We have spent two days at the Aquapark and it’s camping, right before the Formula 1 madness.
+Back to work! Brrrr…</description>
     </item>
     
     <item>
@@ -452,8 +452,7 @@ Back to work! Brrrr&amp;#8230;</description>
       <pubDate>Tue, 26 Jul 2005 10:37:00 +0000</pubDate>
       
       <guid>https://wizguild.com/guess-what/</guid>
-      <description>Guess, what will produce this small program.
-#include &amp;lt;stdio.h&amp;gt; int main() { int a = 3; printf (&#34;a is: %dn&#34;,a); printf (&#34;++a + ++a: %dn&#34;, ++a + ++a ); printf (&#34;after this a is: %dn&#34;,a); int b = 3; printf (&#34;b is: %dn&#34;,b); printf (&#34;b++ + b++: %dn&#34;, b++ + b++ ); printf (&#34;after this b is: %dn&#34;,b); int c = 3; printf (&#34;c is: %dn&#34;,c); printf (&#34;c++ + ++c: %dn&#34;</description>
+      <description>Guess, what will produce this small program.</description>
     </item>
     
     <item>
@@ -462,8 +461,8 @@ Back to work! Brrrr&amp;#8230;</description>
       <pubDate>Tue, 19 Jul 2005 14:04:29 +0000</pubDate>
       
       <guid>https://wizguild.com/weeks-in-run/</guid>
-      <description>Hard times, again. Hard to find time to stop, I feel something is missing. Maybe some holiday. While checking our schedule, we decided to have a break at next week. This is our last hope. I could just hope this will be OK for my clients and for Emese&amp;#8217;s boss.
-The plan is to camp out somewhere near, for example the Aquapark near Mogyorod&amp;#8230; hmm&amp;#8230; sounds relaxing. Although I need some rest, the weather forecasts and state of my projects make me feel bad about the next week&amp;#8230; we will see.</description>
+      <description>Hard times, again. Hard to find time to stop, I feel something is missing. Maybe some holiday. While checking our schedule, we decided to have a break at next week. This is our last hope. I could just hope this will be OK for my clients and for Emese’s boss.
+The plan is to camp out somewhere near, for example the Aquapark near Mogyorod… hmm… sounds relaxing. Although I need some rest, the weather forecasts and state of my projects make me feel bad about the next week… we will see.</description>
     </item>
     
     <item>
@@ -472,7 +471,7 @@ The plan is to camp out somewhere near, for example the Aquapark near Mogyorod&a
       <pubDate>Sun, 03 Jul 2005 18:45:19 +0000</pubDate>
       
       <guid>https://wizguild.com/ssl-courier-imap-certificate-on-debian/</guid>
-      <description>Easy way to create a new certificate instead of the autogenerated one which comes with &amp;#8220;apt-get install courier-imap-ssl&amp;#8221;:
+      <description>Easy way to create a new certificate instead of the autogenerated one which comes with “apt-get install courier-imap-ssl”:
  check your /etc/courier/imapd.cnf move the file /etc/courier/imapd.pem to another name or location dpkg-reconfigure courier-imap-ssl restart imapd and check if everything was ok  </description>
     </item>
     
@@ -503,8 +502,8 @@ Sounds cool, ha?</description>
       <pubDate>Tue, 21 Jun 2005 12:41:58 +0000</pubDate>
       
       <guid>https://wizguild.com/day-with-great-things/</guid>
-      <description>Emese&amp;#8216;s Birthday, she had a successful psychology exam (congratulations, Emese and Happy Birthday).
-I&amp;#8217;m in trouble every time I have to buy presents. I want to buy her something neat, something what will make her happy. It&amp;#8217;s hard to find.</description>
+      <description>Emese‘s Birthday, she had a successful psychology exam (congratulations, Emese and Happy Birthday).
+I’m in trouble every time I have to buy presents. I want to buy her something neat, something what will make her happy. It’s hard to find.</description>
     </item>
     
     <item>
@@ -513,8 +512,7 @@ I&amp;#8217;m in trouble every time I have to buy presents. I want to buy her so
       <pubDate>Mon, 20 Jun 2005 11:24:11 +0000</pubDate>
       
       <guid>https://wizguild.com/my-english/</guid>
-      <description>It&amp;#8217;s bad, I know. I&amp;#8217;m not native, but I&amp;#8217;m working on my English. I have found a page to test my profile.
-  Your Linguistic Profile:     45% General American English    30% Yankee    15% Dixie    10% Upper Midwestern    0% Midwestern    What Kind of American English Do You Speak?  </description>
+      <description>It’s bad, I know. I’m not native, but I’m working on my English. I have found a page to test my profile.</description>
     </item>
     
     <item>
@@ -524,7 +522,7 @@ I&amp;#8217;m in trouble every time I have to buy presents. I want to buy her so
       
       <guid>https://wizguild.com/think-different/</guid>
       <description>This weekend I had to figure out how the hack will I make the Mac OS X clients authenticate from Solaris 10 and Mac OS X server.
-Netinfo is better, it&amp;#8217;s easy to make it work on Mac OS X, but hard to compile on Solaris. I have to configure NIS on the Sun and test if it works.</description>
+Netinfo is better, it’s easy to make it work on Mac OS X, but hard to compile on Solaris. I have to configure NIS on the Sun and test if it works.</description>
     </item>
     
     <item>
@@ -544,7 +542,7 @@ Update: I have managed to restore my blog entries from Google cache. Thanks, guy
       
       <guid>https://wizguild.com/mac-os-x-and-character-problem/</guid>
       <description>After replying the umpteen e-mail about Hungarian language specific (latin2)
-õ and û character problem I have made a FAQ page. I describe how to solve the problem when Word and NeoOffice does not see the õ and û characters in a document comes from Windows. It&amp;#8217;s basically a problem specific documentation for FontBook, Apple&amp;#8217;s most important but not-so-well-known application.
+õ and û character problem I have made a FAQ page. I describe how to solve the problem when Word and NeoOffice does not see the õ and û characters in a document comes from Windows. It’s basically a problem specific documentation for FontBook, Apple’s most important but not-so-well-known application.
 (Update: Will have to find the document to correct the links)</description>
     </item>
     
@@ -554,7 +552,7 @@ Update: I have managed to restore my blog entries from Google cache. Thanks, guy
       <pubDate>Sat, 04 Dec 2004 10:18:00 +0000</pubDate>
       
       <guid>https://wizguild.com/nice-breakfast/</guid>
-      <description>I&amp;#8217;m sitting in a small but nice place called Café Créme just on the corner, near to our flat. The sandwich was fine (with chorizo), Emese had a melange (she said it was much more like melange compared to the others she had) and we are both using our own WiFi network from home, working and surfing&amp;#8230; It&amp;#8217;s a beautiful day, good start.</description>
+      <description>I’m sitting in a small but nice place called Café Créme just on the corner, near to our flat. The sandwich was fine (with chorizo), Emese had a melange (she said it was much more like melange compared to the others she had) and we are both using our own WiFi network from home, working and surfing… It’s a beautiful day, good start.</description>
     </item>
     
     <item>
@@ -563,10 +561,10 @@ Update: I have managed to restore my blog entries from Google cache. Thanks, guy
       <pubDate>Wed, 01 Dec 2004 12:42:00 +0000</pubDate>
       
       <guid>https://wizguild.com/yellow-dog-linux-40-on-imac-g5-combo/</guid>
-      <description>I&amp;#8217;m happy with my new iMac G5, it&amp;#8217;s fast, beautiful&amp;#8230; but. I cannot install
+      <description>I’m happy with my new iMac G5, it’s fast, beautiful… but. I cannot install
 (without hacking) YDL on it, because YDL 4.0 installer does not recognise
 its combo drive. Is this serious? 🙁 I will check it again soon but I have
-no time for hacking a new install set&amp;#8230; I will have to find another ppc
+no time for hacking a new install set… I will have to find another ppc
 distro.
 (Update: I have successfully installed YDL 4.0.1)</description>
     </item>
@@ -577,11 +575,11 @@ distro.
       <pubDate>Sun, 28 Nov 2004 15:42:00 +0000</pubDate>
       
       <guid>https://wizguild.com/death-of-my-harddrive/</guid>
-      <description>HDD of my little powerbook is living it&amp;#8217;s last hours. I&amp;#8217;m running the system
-from my iPod because the harddrive gives terrible noises&amp;#8230; I wonder if it
+      <description>HDD of my little powerbook is living it’s last hours. I’m running the system
+from my iPod because the harddrive gives terrible noises… I wonder if it
 will serve me more than days before the final stop. I will miss my data so
-bad&amp;#8230;
-(Update: in may my harddrive made its last moves&amp;#8230; RIP, old drive)</description>
+bad…
+(Update: in may my harddrive made its last moves… RIP, old drive)</description>
     </item>
     
     <item>
@@ -595,7 +593,7 @@ avoid installing third party programs and system extensions. I could just
 hope my backup was complete 🙂
 After the reinstall I had 35 gigs of space, holy hard drive! OK, OK. After
 installing the most necessary programs and my backup data I have just 20
-gigs of 40, but it&amp;#8217;s kind of interesting how many rubbish I used to store.</description>
+gigs of 40, but it’s kind of interesting how many rubbish I used to store.</description>
     </item>
     
     <item>
@@ -605,8 +603,8 @@ gigs of 40, but it&amp;#8217;s kind of interesting how many rubbish I used to st
       
       <guid>https://wizguild.com/neooffice-11a2-fsfhu-build/</guid>
       <description>Yes, a Hungarian NeoOfficeJ! I did it! Available from
-http://ftp.fsf.hu/NeoOfficeJ, it&amp;#8217;s still in testing, but usable.
-Feel free to use it, it&amp;#8217;s a free software (forums and other stuff at Trinity
+http://ftp.fsf.hu/NeoOfficeJ, it’s still in testing, but usable.
+Feel free to use it, it’s a free software (forums and other stuff at Trinity
 BBS)</description>
     </item>
     
@@ -616,10 +614,10 @@ BBS)</description>
       <pubDate>Tue, 12 Oct 2004 10:48:00 +0000</pubDate>
       
       <guid>https://wizguild.com/chatroom-links-from-web-pages/</guid>
-      <description>It&amp;#8217; not so hard, you can link your favourite AIM (iChat) chat room at
+      <description>It’ not so hard, you can link your favourite AIM (iChat) chat room at
 your site: beszeljukmac chatroom (this is the Hungarian mac chatroom with good
-traffic, it&amp;#8217;s hard to find it empty).
-I hope I will find more chatroom links in the future&amp;#8230; 🙂</description>
+traffic, it’s hard to find it empty).
+I hope I will find more chatroom links in the future… 🙂</description>
     </item>
     
     <item>
@@ -632,7 +630,7 @@ I hope I will find more chatroom links in the future&amp;#8230; 🙂</descriptio
 http://shooby.gnome.hu/pics/2004_10_11_dunaujvaros_fsf.hu_roadshow/.
 We have
 promises about video recordings of the event, I will have to write a video
-cd from my presentation, it was such a success&amp;#8230; 🙂</description>
+cd from my presentation, it was such a success… 🙂</description>
     </item>
     
     <item>
@@ -666,9 +664,9 @@ Semmelweis u. 5.</description>
       
       <guid>https://wizguild.com/mac-fanatic-show-at-fixtv-again/</guid>
       <description>Weekly at Thursday, 20:00 CET (OK, OK, after 15 minutes of ads) about Apple
-history, Mac OS X and Mac users and fanatics, news, rumors&amp;#8230; We will show
+history, Mac OS X and Mac users and fanatics, news, rumors… We will show
 you our Mac 🙂
-Come and join us, our iChat room will be &amp;#8220;beszeljukmac&amp;#8221; hopefully, live
+Come and join us, our iChat room will be “beszeljukmac” hopefully, live
 stream is at mms://www.fix.tv/fixdsl (blah, WM stream, not QT)</description>
     </item>
     
@@ -678,7 +676,7 @@ stream is at mms://www.fix.tv/fixdsl (blah, WM stream, not QT)</description>
       <pubDate>Sun, 03 Oct 2004 15:31:00 +0000</pubDate>
       
       <guid>https://wizguild.com/blog-calendar-works-again/</guid>
-      <description>OK, finally I had some time to fix a bug in the dateFilter checking code&amp;#8230;</description>
+      <description>OK, finally I had some time to fix a bug in the dateFilter checking code…</description>
     </item>
     
     <item>
@@ -702,11 +700,11 @@ voilà, new share 🙂</description>
       <pubDate>Tue, 07 Sep 2004 09:27:00 +0000</pubDate>
       
       <guid>https://wizguild.com/neooffice-11-alpha/</guid>
-      <description>Oh yes! It&amp;#8217;s incredible! I have NeoOffice based on OpenOffice 1.1 code,
+      <description>Oh yes! It’s incredible! I have NeoOffice based on OpenOffice 1.1 code,
 thanks to Patrik. Direct link to the news entry. Knows Hungarian umlaut
-characters, faster, able to save PDF, etc&amp;#8230;
+characters, faster, able to save PDF, etc…
 By the way, I managed to make the Hungarian spell checker and hyphenation
-work&amp;#8230; At home I will try to build my own Hungarian version, too!</description>
+work… At home I will try to build my own Hungarian version, too!</description>
     </item>
     
     <item>
@@ -716,7 +714,7 @@ work&amp;#8230; At home I will try to build my own Hungarian version, too!</desc
       
       <guid>https://wizguild.com/new-machine-on-board/</guid>
       <description>After long delay (waiting for service, about 3 weeks or more) few days ago
-(ok, I know, I&amp;#8217;m a bad blogger) I got my first dual processor system.
+(ok, I know, I’m a bad blogger) I got my first dual processor system.
 Reeeealy cute!!! A real PowerMac G4 (Gigabit Ethernet model) with two 450
 MHz CPU, RAM and some other parts cannibalised from another systems. Yes, the seller have changed the hard drive to a noisy 20 gig one, my first step was to</description>
     </item>
@@ -727,7 +725,7 @@ MHz CPU, RAM and some other parts cannibalised from another systems. Yes, the se
       <pubDate>Tue, 17 Aug 2004 17:30:00 +0000</pubDate>
       
       <guid>https://wizguild.com/update-for-anti-software-patent-demonstration/</guid>
-      <description>I&amp;#8217;m planning to join the demonstration. If you are in Hungary and you are
+      <description>I’m planning to join the demonstration. If you are in Hungary and you are
 software developer or user you should consider to join us. Software patents
 are bad.
 This is one of our banners:</description>
@@ -743,7 +741,7 @@ This is one of our banners:</description>
 software patents. We are in the works to make that little difference by
 putting pressure on the Hungarian government to withdraw their support for
 the current draft.
-We plan a demonstration and talks. Our last &amp;#8211; and only &amp;#8211; chance to influence
+We plan a demonstration and talks. Our last – and only – chance to influence
 the decision to be made seems to be to put some pressure on the officials</description>
     </item>
     
@@ -755,11 +753,11 @@ the decision to be made seems to be to put some pressure on the officials</descr
       <guid>https://wizguild.com/i-have-subversion/</guid>
       <description>I have been using cvs for ages. Jul is subversion fan, I wanted to try it out,
 so I had to install it.
-Every time I said &amp;#8220;fink install svn&amp;#8221; or &amp;#8220;fink install svn-client-ssl&amp;#8221; I got
+Every time I said “fink install svn” or “fink install svn-client-ssl” I got
 frightened from 40 new packages (apache2 and others) so I had to find
 something.
-So I had to recognise I was blind&amp;#8230; on subversion&amp;#8217;s official site there is a
-link to an easy installing dmg&amp;#8230; shame on me, again 🙂</description>
+So I had to recognise I was blind… on subversion’s official site there is a
+link to an easy installing dmg… shame on me, again 🙂</description>
     </item>
     
     <item>
@@ -768,11 +766,11 @@ link to an easy installing dmg&amp;#8230; shame on me, again 🙂</description>
       <pubDate>Tue, 10 Aug 2004 12:13:00 +0000</pubDate>
       
       <guid>https://wizguild.com/childroom-destroy-party/</guid>
-      <description>We&amp;#8217;ve been planning to renovate the kid&amp;#8217;s room for long time. On Sunday we
+      <description>We’ve been planning to renovate the kid’s room for long time. On Sunday we
 have started to remove the old wallpaper, move the furniture to other room,
 etc.
 Now we have a new wallpaper, and some time. Wallpaper have to dry, then we
-will paint it and build the new furniture&amp;#8230; hard days.</description>
+will paint it and build the new furniture… hard days.</description>
     </item>
     
     <item>
@@ -782,7 +780,7 @@ will paint it and build the new furniture&amp;#8230; hard days.</description>
       
       <guid>https://wizguild.com/english-hungarian-dictionary-on-cocoa-power/</guid>
       <description>There is a new version of English-Hungarian (Angol-Magyar) dictionary at
-http://egeronline.com/szotar/. I like this Cocoa application, it has nice background, it&amp;#8217;s free, fast and it can speak the English text (OK, there is no speak support for Hungarian in Mac OS X).
+http://egeronline.com/szotar/. I like this Cocoa application, it has nice background, it’s free, fast and it can speak the English text (OK, there is no speak support for Hungarian in Mac OS X).
 Good job, iJoe!</description>
     </item>
     
@@ -793,8 +791,8 @@ Good job, iJoe!</description>
       
       <guid>https://wizguild.com/videochat-with-guys-at-the-sziget-festival/</guid>
       <description>Scold have asked me to check for his iSight signal on the Sziget festival so
-I&amp;#8217;ve seen some nice people out there. They were a bit foggy, I think they will
-have to look for some way to force set the focus&amp;#8230;
+I’ve seen some nice people out there. They were a bit foggy, I think they will
+have to look for some way to force set the focus…
 On Thursday hopefully I will check them IRL.</description>
     </item>
     
@@ -804,7 +802,7 @@ On Thursday hopefully I will check them IRL.</description>
       <pubDate>Thu, 22 Jul 2004 12:04:00 +0000</pubDate>
       
       <guid>https://wizguild.com/28/</guid>
-      <description>Few days ago I have grown old. I&amp;#8217;m still shocked. Nobody told me about how
+      <description>Few days ago I have grown old. I’m still shocked. Nobody told me about how
 it feels getting older and older every year. The cake was fine. Thanks for
 all the good wishes.</description>
     </item>
@@ -815,11 +813,11 @@ all the good wishes.</description>
       <pubDate>Sun, 13 Jun 2004 16:10:00 +0000</pubDate>
       
       <guid>https://wizguild.com/back-from-the-cern/</guid>
-      <description>I&amp;#8217;m tired and extremely happy, I was able to see the Data Center of CERN
+      <description>I’m tired and extremely happy, I was able to see the Data Center of CERN
 (European Organization for Nuclear Research, read Nuclear part as inner
 particles of atoms, protons and electrons not as nuclear technology).
 I have been invited by Interware Rt. (a five stars server hosting hotel)
-with many young (and not so very young) IT professionals and Interware&amp;#8217;s
+with many young (and not so very young) IT professionals and Interware’s
 most important business partners.
 For Your Information: The visit in CERN is for FREE.</description>
     </item>
@@ -831,8 +829,8 @@ For Your Information: The visit in CERN is for FREE.</description>
       
       <guid>https://wizguild.com/final-fantasy-x-2/</guid>
       <description>At last, I managed to buy a FFX-2. Unfortunately, the seller did not tell me
-it&amp;#8217;s a German version. We are fighting with the game. I mean I&amp;#8217;m fighting with the
-German language menus, I have &amp;#8220;difficulties&amp;#8221; with German. So I will try to
+it’s a German version. We are fighting with the game. I mean I’m fighting with the
+German language menus, I have “difficulties” with German. So I will try to
 find the way to exchange it to an English version. The game is fantastic, but the
 new combat mechanism (aktivemodus, brrr) is too fast for me. I like to</description>
     </item>
@@ -844,7 +842,7 @@ new combat mechanism (aktivemodus, brrr) is too fast for me. I like to</descript
       
       <guid>https://wizguild.com/my-first-real-camera/</guid>
       <description>This week Olympus finally have shipped C-765 UZ cameras to Hungary. At last.
-I have bought one, I&amp;#8217;m quite happy with it. It&amp;#8217;s a small 10X optical zoom,
+I have bought one, I’m quite happy with it. It’s a small 10X optical zoom,
 4.0 megapixel digital camera with QuickTime video recording capabilities
 (with sound).</description>
     </item>
@@ -859,7 +857,7 @@ I have bought one, I&amp;#8217;m quite happy with it. It&amp;#8217;s a small 10X
 Jul, Szimszon, Bmp, Kecsi and me.
 What is Towel Day?
 Towel Day has been declared by an internet movement to celebrate Douglas
-Adams&amp;#8217; memory, it is set for 25th May. The idea was that people carry
+Adams’ memory, it is set for 25th May. The idea was that people carry
 their towel with them everywhere on that day as a tribute to Doulgas Adams.
 So carry your towel with you throughout the day, think about Hitchhikers</description>
     </item>
@@ -871,10 +869,10 @@ So carry your towel with you throughout the day, think about Hitchhikers</descri
       
       <guid>https://wizguild.com/gnome-26/</guid>
       <description>Gnome 2.6 is out! I feel shame, I had no commits since the last release. I
-will have to check GKB and Glines if they were working&amp;#8230; It&amp;#8217;s hard to use a
-PC&amp;#8230;
+will have to check GKB and Glines if they were working… It’s hard to use a
+PC…
 I have found the missing key tab file for my ill-fated gkeycaps program, I
-will try to continue the coding&amp;#8230; I have forgot to commit it into the Gnome
+will try to continue the coding… I have forgot to commit it into the Gnome
 CVS and the program does not work without this file 😛</description>
     </item>
     
@@ -884,12 +882,12 @@ CVS and the program does not work without this file 😛</description>
       <pubDate>Thu, 01 Apr 2004 08:26:00 +0000</pubDate>
       
       <guid>https://wizguild.com/foldinghome/</guid>
-      <description>I&amp;#8217;m folding proteins on my locked screen (I normally do not use any
-screensaver but screen locks)&amp;#8230; Few days ago I have found (again) a protein
+      <description>I’m folding proteins on my locked screen (I normally do not use any
+screensaver but screen locks)… Few days ago I have found (again) a protein
 folding project, called Folding@Home.
 The goal of the project is understand how to fold proteins and protein
-aggregation, helping to fight Alzheimer&amp;#8217;s and Parkinson&amp;#8217;s disease, Mad Cow
-(BSE), CJD and ALS&amp;#8230; I love to help, so I have downloaded the GUI and the
+aggregation, helping to fight Alzheimer’s and Parkinson’s disease, Mad Cow
+(BSE), CJD and ALS… I love to help, so I have downloaded the GUI and the
 screensaver and joined to Team Mac OS X.</description>
     </item>
     
@@ -902,10 +900,10 @@ screensaver and joined to Team Mac OS X.</description>
       <description>So this will be a bad change 🙂
 I tried to change my old tr/td based blog design to blosxom.php kind div/css
 based.
-I hope this will be future-aware, I had to work with this for long hours&amp;#8230;
+I hope this will be future-aware, I had to work with this for long hours…
 🙂
 If you have an idea about how to position the navi div to not to collide with the
-main div at bigger font sizes&amp;#8230; Yes, there is font size relative sizing</description>
+main div at bigger font sizes… Yes, there is font size relative sizing</description>
     </item>
     
     <item>
@@ -914,8 +912,8 @@ main div at bigger font sizes&amp;#8230; Yes, there is font size relative sizing
       <pubDate>Tue, 30 Mar 2004 20:47:00 +0000</pubDate>
       
       <guid>https://wizguild.com/fortune-today/</guid>
-      <description>I have made a presentation about &amp;#8220;Multimedia on the Macintosh&amp;#8221; on the
-DigitalWorld Conference today. I had success, I made a real &amp;#8220;show&amp;#8221; in twenty
+      <description>I have made a presentation about “Multimedia on the Macintosh” on the
+DigitalWorld Conference today. I had success, I made a real “show” in twenty
 minutes (:-P).
 Before my presentation there was a drawing, I had luck, maybe first time in
 my life :).
@@ -941,7 +939,7 @@ My next project is to make a Hungarian, tested version of NeoOffice/J, but</desc
       <pubDate>Fri, 20 Feb 2004 21:42:00 +0000</pubDate>
       
       <guid>https://wizguild.com/tv-star-i-in-fixtv/</guid>
-      <description>I will be one of the hosts in i+ (pronounced: Allj meg, means &amp;#8220;stop&amp;#8221;), a new tv
+      <description>I will be one of the hosts in i+ (pronounced: Allj meg, means “stop”), a new tv
 show in fix.tv. The show will show Mac vs. PC fight from one aspect.
 And old iMac (base G4 with some extra ram) versus an AMD 2GHz monster. Uh.
 This will be a hard fight. We will try to introduce Macintosh for the
@@ -958,7 +956,7 @@ channel about interactive multimedia and computing, music clips and cars,</descr
       <description>Last week I installed Oracle 9.2 to my PowerBook. I have still problems
 setting it up in changing network environment (I have to reedit /etc/hosts
 every time I got new IP address) but runs well on my little book. I had to
-make an oracle user, with sudo rights&amp;#8230; The tomcat setup has changed
+make an oracle user, with sudo rights… The tomcat setup has changed
 between jaguar and panther, so I had to edit some scripts (allup.sh and
 alldown.sh) to make it run properly.</description>
     </item>
@@ -975,7 +973,7 @@ mgetty has been ported to Mac OS X. The link is here:
 http://www.leo.org/~doering/mgetty/
 I had to change Makefile a bit (there is no fax and modem user or group), I
 bet nobody will be enough.
-On panther I had to remove an &amp;#8220;extern int sys_nerr;&amp;#8221; from the logfile.</description>
+On panther I had to remove an “extern int sys_nerr;” from the logfile.</description>
     </item>
     
     <item>
@@ -985,7 +983,7 @@ On panther I had to remove an &amp;#8220;extern int sys_nerr;&amp;#8221; from th
       
       <guid>https://wizguild.com/wannabe-lord-of-the-snowboards/</guid>
       <description>Sunday we will leave for a skying trip, 5 days without Internet access
-(Panic! Panic!)&amp;#8230; I think this will be hard. What more, I will have to leave my
+(Panic! Panic!)… I think this will be hard. What more, I will have to leave my
 PowerBook home 🙁
 No way. What will I do in the hospital after breaking my
 bones on the slope? 😀 I definitely have to bring the notebook.</description>
@@ -997,8 +995,8 @@ bones on the slope? 😀 I definitely have to bring the notebook.</description>
       <pubDate>Thu, 29 Jan 2004 12:39:00 +0000</pubDate>
       
       <guid>https://wizguild.com/almakor-mug-meeting-last-weekend/</guid>
-      <description>This was such an event! GarageBand demo, beautiful machines&amp;#8230;
-aaand&amp;#8230; 512M RAM more in my PowerBook 🙂 I&amp;#8217;m happy with the speedup, but of course I have to
+      <description>This was such an event! GarageBand demo, beautiful machines…
+aaand… 512M RAM more in my PowerBook 🙂 I’m happy with the speedup, but of course I have to
 wait for some apps, yet.
 I am waiting for G5 notebooks 🙂</description>
     </item>
@@ -1009,12 +1007,14 @@ I am waiting for G5 notebooks 🙂</description>
       <pubDate>Tue, 20 Jan 2004 15:58:00 +0000</pubDate>
       
       <guid>https://wizguild.com/apple-center-in-paris/</guid>
-      <description>After some calculations I&amp;#8217;ve decided to buy new battery for my Powerbook here.
+      <description>After some calculations I’ve decided to buy new battery for my Powerbook here.
 I will have problems with warranty but the price was cheaper (around 35
-Euros). It&amp;#8217;s hard to find an Apple shop!
+Euros). It’s hard to find an Apple shop!
 I checked apple.fr for the list of resellers, then I met with different
 shops:
- They don&amp;#8217;t sell Apple parts but complete computers   They don&amp;#8217;t have stock   The given address is a warehouse (or something with a big steel door)   &amp;#8230; and of course there are others who sell Apple parts 🙂   We&amp;#8217;ve had some problem with France Telecom (their phone boxes are not properly</description>
+We’ve had some problem with France Telecom (their phone boxes are not properly
+working every time) but Sebastien solved the problem.
+So I managed to buy the battery so now I’m happy but I have to wait for Emese</description>
     </item>
     
     <item>
@@ -1023,11 +1023,11 @@ shops:
       <pubDate>Sun, 18 Jan 2004 11:47:00 +0000</pubDate>
       
       <guid>https://wizguild.com/from-paris/</guid>
-      <description>Here we are, Sebastien&amp;#8217;s place&amp;#8230; changed a lot&amp;#8230; new furnitures, washing
-machine&amp;#8230;
+      <description>Here we are, Sebastien’s place… changed a lot… new furnitures, washing
+machine…
 Cool. Today we will try to visit some museums and the Eiffel tower, the
 weather is cold but nice.
-Today morning I managed to buy some bread and Coke, in French. I&amp;#8217;m proud of
+Today morning I managed to buy some bread and Coke, in French. I’m proud of
 myself 🙂</description>
     </item>
     
@@ -1039,8 +1039,8 @@ myself 🙂</description>
       <guid>https://wizguild.com/will-be-off-to-paris/</guid>
       <description>Tomorrow evening we will visit Sebastien
 (this is a picture, his website is down) in Paris.
-This is the first time Maji will join to us, he will be a bit unhappy with the other people speaking foreign languages and no Hungarian. He can understand some basic words and expressions like &amp;#8220;Yes&amp;#8221;, &amp;#8220;No&amp;#8221;, &amp;#8220;OK&amp;#8221;, &amp;#8220;Let&amp;#8217;s go&amp;#8221; in English but nothing in French.
-We will show him the city, I&amp;#8217;m sure he will enjoy the trip.</description>
+This is the first time Maji will join to us, he will be a bit unhappy with the other people speaking foreign languages and no Hungarian. He can understand some basic words and expressions like “Yes”, “No”, “OK”, “Let’s go” in English but nothing in French.
+We will show him the city, I’m sure he will enjoy the trip.</description>
     </item>
     
     <item>
@@ -1064,9 +1064,9 @@ they were happy with those nifty tricks after the killing theories.</description
       
       <guid>https://wizguild.com/lord-of-the-ring-3-return-of-the-king/</guid>
       <description>OK, yesterday evening I managed to collect my friends and buy tickets for
-LOTR3. I enjoyed it, the film had outstanding visual effects &amp;#8211; except the
-hobbits&amp;#8230; The bluebox stuff was lame and badly lighted. The storyline was
-well made, not much quake-like bloodbath&amp;#8230; I think the giant spider was a
+LOTR3. I enjoyed it, the film had outstanding visual effects – except the
+hobbits… The bluebox stuff was lame and badly lighted. The storyline was
+well made, not much quake-like bloodbath… I think the giant spider was a
 bit too scarry. The end was long, but they left out the last boring events
 from the book, so it was a bit hollywood-kind end (family, kids, happy wife</description>
     </item>
@@ -1092,7 +1092,7 @@ exam next week, too. Then two more semesters and I got my MSC!</description>
       <guid>https://wizguild.com/fun-with-a-powermac-g5/</guid>
       <description>I borrowed a PowerMac G5 form HAndras, I met him first on a MUG meeting where
 I saw his G5 (A clip from HAndras)
-He managed to sell his &amp;#8220;old&amp;#8221; 1.6 GHz model and to buy a new one, a freaking
+He managed to sell his “old” 1.6 GHz model and to buy a new one, a freaking
 dual 2GHz G5. While the old one is waiting for the new owner HAndras was so
 kind he gave it to me to compile the OpenOffice.org.
 I am so happy!</description>

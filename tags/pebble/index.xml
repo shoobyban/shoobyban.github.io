@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pebble on Wizguild</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 09 Jan 2016 21:23:52 +0000</pubDate>
       
       <guid>https://wizguild.com/another-watchface/</guid>
-      <description>I have to say creating beautiful watchfaces is addictive. I had to create a new one, now a replica. I&amp;#8217;ve found a Gucci watch I would love to have – but as a smartwatch. Creating it was fun, having it pure joy. See watchfaces page for details.</description>
+      <description>I have to say creating beautiful watchfaces is addictive. I had to create a new one, now a replica. I’ve found a Gucci watch I would love to have – but as a smartwatch. Creating it was fun, having it pure joy. See watchfaces page for details.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 06 Dec 2015 15:10:22 +0000</pubDate>
       
       <guid>https://wizguild.com/pebble-watchface/</guid>
-      <description>I&amp;#8217;ve published my latest watchface, ShoMaurice, after using Maurice for a while and missing/disliking few things about it. I can&amp;#8217;t help it. Pebble&amp;#8217;s decision to make C the primary language for developing watchfaces was an excellent choice. Of course you can theoretically make apps in JavaScript but why?
+      <description>I’ve published my latest watchface, ShoMaurice, after using Maurice for a while and missing/disliking few things about it. I can’t help it. Pebble’s decision to make C the primary language for developing watchfaces was an excellent choice. Of course you can theoretically make apps in JavaScript but why?
 I have other projects as well but I enjoy this, with a few hours of coding I create something beautiful, then I carry it with me.</description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>games on Wizguild</title>
@@ -17,8 +17,8 @@
       <pubDate>Wed, 23 Jan 2013 11:21:16 +0000</pubDate>
       
       <guid>https://wizguild.com/toddlers-blocks-for-ipad-and-iphone/</guid>
-      <description>Finally I&amp;#8217;ve released my block-building game for the kids! They&amp;#8217;ve been testing it on the iPad for ages, asking for more faces, telling me that they like this, don&amp;#8217;t like that etc.
-Of course for App Store screen-shots I had to modify the UI, for loading and saving block layouts, it&amp;#8217;s hard to create the same screen-shots for all the resolutions&amp;#8230; and left a broken callback in the code even after testing, so 1.</description>
+      <description>Finally I’ve released my block-building game for the kids! They’ve been testing it on the iPad for ages, asking for more faces, telling me that they like this, don’t like that etc.
+Of course for App Store screen-shots I had to modify the UI, for loading and saving block layouts, it’s hard to create the same screen-shots for all the resolutions… and left a broken callback in the code even after testing, so 1.</description>
     </item>
     
   </channel>

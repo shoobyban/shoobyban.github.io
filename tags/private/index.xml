@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>private on Wizguild</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 22 Aug 2013 08:26:45 +0000</pubDate>
       
       <guid>https://wizguild.com/converting-to-storyboard-based-design/</guid>
-      <description>As Apple is pushing Storyboard based app development I&amp;#8217;ve decided to give it a go. Having a family holiday with lots of spare time after the pools closed I&amp;#8217;ve started to pull it together for iRecipeBook.
+      <description>As Apple is pushing Storyboard based app development I’ve decided to give it a go. Having a family holiday with lots of spare time after the pools closed I’ve started to pull it together for iRecipeBook.
 I had to find out how to simplify and standardise my old – I mean really old – code that I call guano code, created layer-by-layer as technology changed and requests came. Mostly it was about delegates, callbacks and properties – duplicated here and there, non-standard solutions for supporting of older (iOS 4.</description>
     </item>
     
@@ -27,7 +27,7 @@ I had to find out how to simplify and standardise my old – I mean really old �
       <pubDate>Mon, 22 Oct 2012 16:20:50 +0000</pubDate>
       
       <guid>https://wizguild.com/hello-world/</guid>
-      <description>So here I am, finish multi-branding all say. I&amp;#8217;m now on wizguild.com, migrating everything here. First of all, my projects on the main site (mostly done, more coming) and my support sites for iOS apps. Although I have no time and intention to blog regularly I&amp;#8217;ve migrated my old stuff here for the posterity.</description>
+      <description>So here I am, finish multi-branding all say. I’m now on wizguild.com, migrating everything here. First of all, my projects on the main site (mostly done, more coming) and my support sites for iOS apps. Although I have no time and intention to blog regularly I’ve migrated my old stuff here for the posterity.</description>
     </item>
     
     <item>

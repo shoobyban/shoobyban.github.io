@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>core data on Wizguild</title>
@@ -17,8 +17,8 @@
       <pubDate>Sun, 04 Aug 2013 09:00:02 +0000</pubDate>
       
       <guid>https://wizguild.com/core-data-icloud-support-on-ios/</guid>
-      <description>As of today, we still have 4.x systems running, iOS 5 is still not real minority, so I can&amp;#8217;t just use iOS 6 API.
-After reading several articles and trying every framework and sample code I could find my verdict is the same, iOS is not ready for Core Data iCloud yet. The currently available iOS versions are not behaving the same way so either it&amp;#8217;s a testing nightmare or just a nightmare, developers can choose.</description>
+      <description>As of today, we still have 4.x systems running, iOS 5 is still not real minority, so I can’t just use iOS 6 API.
+After reading several articles and trying every framework and sample code I could find my verdict is the same, iOS is not ready for Core Data iCloud yet. The currently available iOS versions are not behaving the same way so either it’s a testing nightmare or just a nightmare, developers can choose.</description>
     </item>
     
   </channel>

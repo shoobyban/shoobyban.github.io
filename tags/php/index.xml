@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>php on Wizguild</title>
@@ -17,7 +17,10 @@
       <pubDate>Mon, 22 Oct 2012 13:59:06 +0000</pubDate>
       
       <guid>https://wizguild.com/textwrangler_phptidy_filter/</guid>
-      <description>I love TextWrangler. Performance of TextWrangler is just incredible compared to the alternatives. Just try to open a few hundred megabytes long XML and do a search and replace. Others will give you the spinning beach-ball for minutes. Its only real weakness is long lines. I miss few key features, though. I&amp;#8217;m not a big fan of BBedit, those extra features are not for me, I actually found them very distracting.</description>
+      <description>it works with files (reading from file instead of standard input) there is a non-optional argument “command”, as phptidy has lots of features it does not break lines after semicolons  …so I had to tweak the code a little. I hope you will find it useful.
+Oh, yes, your download link:
+PHPTidy text filter for TextWrangler
+For XMLTidy I use this shell script:</description>
     </item>
     
   </channel>

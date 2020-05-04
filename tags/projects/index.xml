@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Wizguild</title>
@@ -18,7 +18,7 @@
       
       <guid>https://wizguild.com/hugo-static-site/</guid>
       <description>I had WordPress for a myriad of years – it feels like. As my daily work involves moving clients away to other, less feature rich but more integrated solutions it became more and more pressing to check options for myself.
-Hugo is written in Go, a language that I chose to implement several big projects. Accidentally, Hugo became an inspiration and source for documentation when I started to look for good articles about Go&amp;rsquo;s templating language that we use extensively.</description>
+Hugo is written in Go, a language that I chose to implement several big projects. Accidentally, Hugo became an inspiration and source for documentation when I started to look for good articles about Go&#39;s templating language that we use extensively.</description>
     </item>
     
     <item>
@@ -27,9 +27,9 @@ Hugo is written in Go, a language that I chose to implement several big projects
       <pubDate>Mon, 16 Apr 2018 16:35:36 +0000</pubDate>
       
       <guid>https://wizguild.com/new-tool-gwget-wget-based-file-list-downloading-missing-files/</guid>
-      <description>I had to pull only missing images from media folder of live to a staging server. Best way to do it was to &amp;#8230; create a tool that does exactly what I had to do.
+      <description>I had to pull only missing images from media folder of live to a staging server. Best way to do it was to … create a tool that does exactly what I had to do.
 http://github.com/shoobyban/gwget is the result. Enjoy.
-&amp;nbsp;</description>
+ </description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ http://github.com/shoobyban/gwget is the result. Enjoy.
       
       <guid>https://wizguild.com/golang-experiments/</guid>
       <description>Wow, two years without (published) post!
-I&amp;#8217;ve started to experiment with Go in the meantime. I have to admit I&amp;#8217;m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it&amp;#8217;s something.
+I’ve started to experiment with Go in the meantime. I have to admit I’m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it’s something.
 As my normal day job involves some backend here and there and we are doing some serious ETL magic, I had to look around for a transformation language.</description>
     </item>
     
@@ -62,7 +62,7 @@ As well as having an established framework like Symfony2. I had no real problem 
       <guid>https://wizguild.com/pim-updates/</guid>
       <description>In the past few weeks I have been working on the PIM (Product Management System) for my Magento instance. With the current setup we can work on the products without having to touch Magento admin.
 Product data is versioned and synchronised both ways on every PIM product list display – this is not optimal but works well, I will probably create a cron job.
-Attributes and attribute sets are also synchronised, CRUD is ready but I don&amp;#8217;t want to show it on the frontend.</description>
+Attributes and attribute sets are also synchronised, CRUD is ready but I don’t want to show it on the frontend.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ Attributes and attribute sets are also synchronised, CRUD is ready but I don&amp
       
       <guid>https://wizguild.com/simple-pim-for-magento/</guid>
       <description>Product Information Management systems help you to manage product information centrally. In a sense Magento is a PIM.
-Magento doesn&amp;#8217;t allow you to have versioned product data. In most cases this is not a problem, because you want to sell based on the latest information and you have a reliable content management team. But what if this is not the case, you have computer illiterate shop assistants or old people trying to manage the site?</description>
+Magento doesn’t allow you to have versioned product data. In most cases this is not a problem, because you want to sell based on the latest information and you have a reliable content management team. But what if this is not the case, you have computer illiterate shop assistants or old people trying to manage the site?</description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@ Magento doesn&amp;#8217;t allow you to have versioned product data. In most case
       
       <guid>https://wizguild.com/bee-bot-and-sphero-magic-is-coming/</guid>
       <description>We have a new pet at home – a Sphero. Kids love it but most of the programming tools are not for 5 years olds. With the help of old turtle logic and their recent experience playing with Bee-Bots in school we had some fun already. Keep your eyes open, BeeSphero is coming!
-[Update 30/04/2014] Bee support didn&amp;#8217;t react to my support request yet (Apple needs their approval too), I suppose they are busy developing the other bots&amp;#8230;</description>
+[Update 30/04/2014] Bee support didn’t react to my support request yet (Apple needs their approval too), I suppose they are busy developing the other bots…</description>
     </item>
     
     <item>
@@ -101,7 +101,10 @@ We plan to release it just before Christmas!</description>
       <pubDate>Mon, 22 Oct 2012 13:59:06 +0000</pubDate>
       
       <guid>https://wizguild.com/textwrangler_phptidy_filter/</guid>
-      <description>I love TextWrangler. Performance of TextWrangler is just incredible compared to the alternatives. Just try to open a few hundred megabytes long XML and do a search and replace. Others will give you the spinning beach-ball for minutes. Its only real weakness is long lines. I miss few key features, though. I&amp;#8217;m not a big fan of BBedit, those extra features are not for me, I actually found them very distracting.</description>
+      <description>it works with files (reading from file instead of standard input) there is a non-optional argument “command”, as phptidy has lots of features it does not break lines after semicolons  …so I had to tweak the code a little. I hope you will find it useful.
+Oh, yes, your download link:
+PHPTidy text filter for TextWrangler
+For XMLTidy I use this shell script:</description>
     </item>
     
     <item>
@@ -111,7 +114,7 @@ We plan to release it just before Christmas!</description>
       
       <guid>https://wizguild.com/updated-irecipebook-finally/</guid>
       <description>It took terribly long to fix the built-in web server. Thank you for your support by using the App and sorry for annoyances. The focus is on social networking features now.
-As the database is bigger and bigger, especially after uploading images for every recipe I&amp;#8217;ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can&amp;#8217;t sacrifice launch performance.</description>
+As the database is bigger and bigger, especially after uploading images for every recipe I’ve realized maybe we will have to implement an option to get rid of big images. The big image feature was introduced to help social networking publication, but clearly we can’t sacrifice launch performance.</description>
     </item>
     
     <item>
@@ -120,8 +123,8 @@ As the database is bigger and bigger, especially after uploading images for ever
       <pubDate>Mon, 05 Dec 2011 11:50:43 +0000</pubDate>
       
       <guid>https://wizguild.com/english-hungarian-dictionary-and-idiom-dictionary-for-mac-os-x-spotlight/</guid>
-      <description>This is an English &amp;#8211; Hungarian dictionary and English idiom &amp;#8211; Hungarian dictionary for Mac OS X spotlight. Install the unzipped files it into /Library/Dictionaries and check /Applications/Dictionary.app settings for details.
-          Download: Dictionary.zip 15.29 MB</description>
+      <description>This is an English – Hungarian dictionary and English idiom – Hungarian dictionary for Mac OS X spotlight. Install the unzipped files it into /Library/Dictionaries and check /Applications/Dictionary.app settings for details.
+Download: Dictionary.zip 15.29 MB</description>
     </item>
     
   </channel>

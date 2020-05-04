@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>magento on Wizguild</title>
@@ -17,9 +17,9 @@
       <pubDate>Mon, 16 Apr 2018 16:35:36 +0000</pubDate>
       
       <guid>https://wizguild.com/new-tool-gwget-wget-based-file-list-downloading-missing-files/</guid>
-      <description>I had to pull only missing images from media folder of live to a staging server. Best way to do it was to &amp;#8230; create a tool that does exactly what I had to do.
+      <description>I had to pull only missing images from media folder of live to a staging server. Best way to do it was to … create a tool that does exactly what I had to do.
 http://github.com/shoobyban/gwget is the result. Enjoy.
-&amp;nbsp;</description>
+ </description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ As well as having an established framework like Symfony2. I had no real problem 
       <guid>https://wizguild.com/pim-updates/</guid>
       <description>In the past few weeks I have been working on the PIM (Product Management System) for my Magento instance. With the current setup we can work on the products without having to touch Magento admin.
 Product data is versioned and synchronised both ways on every PIM product list display – this is not optimal but works well, I will probably create a cron job.
-Attributes and attribute sets are also synchronised, CRUD is ready but I don&amp;#8217;t want to show it on the frontend.</description>
+Attributes and attribute sets are also synchronised, CRUD is ready but I don’t want to show it on the frontend.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@ Attributes and attribute sets are also synchronised, CRUD is ready but I don&amp
       
       <guid>https://wizguild.com/simple-pim-for-magento/</guid>
       <description>Product Information Management systems help you to manage product information centrally. In a sense Magento is a PIM.
-Magento doesn&amp;#8217;t allow you to have versioned product data. In most cases this is not a problem, because you want to sell based on the latest information and you have a reliable content management team. But what if this is not the case, you have computer illiterate shop assistants or old people trying to manage the site?</description>
+Magento doesn’t allow you to have versioned product data. In most cases this is not a problem, because you want to sell based on the latest information and you have a reliable content management team. But what if this is not the case, you have computer illiterate shop assistants or old people trying to manage the site?</description>
     </item>
     
     <item>
@@ -61,9 +61,9 @@ Magento doesn&amp;#8217;t allow you to have versioned product data. In most case
       
       <guid>https://wizguild.com/cache-warmup-based-on-sitemap/</guid>
       <description>I work with multiple sites without cache warmup technology. So I created one.
-Don&amp;#8217;t be mislead, it&amp;#8217;s simple.
+Don’t be mislead, it’s simple.
 Basic usage:
-&amp;lt;br /&amp;gt; $ ./warmup.rb www.someurl.tld&amp;lt;br /&amp;gt; 
+&amp;lt;br /&amp;gt; $ ./warmup.rb www.someurl.tld&amp;lt;br /&amp;gt;
 It will
  download http://www.someurl.tld/sitemap.xml parse that sitemap for urls run through that list of urls, downloading every HTML to warmup the cache  For further information and the code check up the Github repository</description>
     </item>
@@ -74,9 +74,8 @@ It will
       <pubDate>Thu, 15 Nov 2012 13:10:01 +0000</pubDate>
       
       <guid>https://wizguild.com/creating-magento-admin-grid-without-database-tables/</guid>
-      <description>It&amp;#8217;s not common that you have to display something that&amp;#8217;s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
-Feel free to download the code itself: Wizguild_VirtualGrid.zip
- Virtual grid package structure  In the Grid.php I create a Varien_Data_Collection object: protected function _prepareCollection() { $collection = new Varien_Data_Collection(); foreach (array(&#39;alpha&#39;,&#39;beta&#39;,&#39;charlie&#39;) as $item) { $data = new Varien_Object(); $data-&amp;gt;setName($item); $collection-&amp;gt;addItem($data); } $this-&amp;gt;setCollection($collection); } &amp;#8230;then just use it in the _prepareColumns():</description>
+      <description>It’s not common that you have to display something that’s not in the Magento database. It was not too difficult to figure out how to do it but checking this might save you few minutes.
+Feel free to download the code itself: [Wizguild_VirtualGrid.zip][1]</description>
     </item>
     
   </channel>

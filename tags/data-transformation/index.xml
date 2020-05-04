@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Transformation on Wizguild</title>
@@ -18,7 +18,7 @@
       
       <guid>https://wizguild.com/golang-experiments/</guid>
       <description>Wow, two years without (published) post!
-I&amp;#8217;ve started to experiment with Go in the meantime. I have to admit I&amp;#8217;m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it&amp;#8217;s something.
+I’ve started to experiment with Go in the meantime. I have to admit I’m far from being able to write good code in Go, not that I could tell this from any other programming languages, but hey, it’s something.
 As my normal day job involves some backend here and there and we are doing some serious ETL magic, I had to look around for a transformation language.</description>
     </item>
     
